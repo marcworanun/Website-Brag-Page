@@ -30,7 +30,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ### To confirm
 
-- [ ] Role title (Founder / Inventor / something else)
+- [x] Role title: Founder, Inventor
 - [ ] Dates (start, trials, licence deal)
 - [ ] The notes list "a safety system" twice. Is there a third feature?
 - [ ] Licence status: signed, or still in progress? ("secured" in the copy assumes signed)
@@ -72,7 +72,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ### To confirm
 
-- [ ] Role title
+- [x] Role title: Founder, Inventor, Researcher
 - [ ] Dates
 - [x] How the saline bottles are used: hard inner shell, wrapped in fabric
 - [x] Nanoparticle coating is on the fabric
