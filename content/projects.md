@@ -138,3 +138,45 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Publish the advice report on the site as a "Read the report" button?
 - [ ] Was the 12% rise in profit or in revenue? And was it from the advice, the online shops, or both?
 - [ ] Photos
+
+---
+
+## 4. Ecoscope (clothing brand)
+
+### Full notes
+
+- **What it is:** Marc's sustainable clothing brand. Each design features one endangered animal, printed on sustainably made everyday clothing, so these animals are seen in ordinary places rather than only in textbooks and museums. The brand focuses on showing the beauty of endangered animals.
+- **Origin story:**
+  - It started with a painting of a deer in my family's home in Bangkok.
+  - My dad told me it was a **Schomburgk's deer**, found nowhere else in the world except the wetlands around the Chao Phraya River, on the land where Bangkok stands today.
+  - Hunting and the spread of rice farming wiped it out. The last known one died in **1938**.
+  - My grandfather, who has taken photographs for most of his life, showed me his photo of the deer.
+  - What stayed with me was how completely the deer had been forgotten. It once lived where I grew up, and almost no one I asked had heard of it.
+  - I started Ecoscope so that the endangered animals still with us don't disappear from view the same way.
+- **Materials:**
+  - main line made from fruit fibres: **banana tree** and **pineapple leaf**
+  - a separate line made from **recycled PET**
+- **Animals featured:** Siamese crocodile, pangolin, elephant, horse.
+- **Results:** **7 pop-up stores**, **200+ pieces sold**, **2,000+ USD revenue**.
+- **Where profits go:** endangered animal shelters and the artisans who make the clothes.
+
+### Website copy
+
+> **Ecoscope**
+> *Founder*
+>
+> Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+
+### To confirm
+
+- [ ] Role title (Founder?)
+- [ ] Dates (launch, pop-ups)
+- [ ] Grandfather's photo: what is it of? (The last deer died in 1938, so a photo he took himself is unlikely. A museum specimen, an old print, the painting?)
+- [ ] Horses: which species? Domestic horses aren't endangered; Przewalski's horse is. Or is it a Thai native breed?
+- [ ] Elephant: Asian elephant? (assumed in copy)
+- [ ] Pangolin: Sunda pangolin?
+- [ ] Which shelters or organisations receive profits? How much has been donated?
+- [ ] Who are the artisans (community, location)?
+- [ ] Where the pop-ups were held
+- [ ] Website or Instagram link
+- [ ] Photos (designs, pop-up stores)

@@ -39,7 +39,7 @@ Draft:
 ## Still needed from Marc
 
 - Colour preferences
-- Project details (name, dates, role, what it does, results/numbers, links). Done so far: LunarLift, Embrace Gloves, Baan Panya, see `content/projects.md`
-- Clothing brand name and details
+- Project details (name, dates, role, what it does, results/numbers, links). Done so far: LunarLift, Embrace Gloves, Baan Panya, Ecoscope, see `content/projects.md`
+- ~~Clothing brand name and details~~ Ecoscope, see `content/projects.md`
 - Extracurriculars and awards
 - Photos (upload to the repo; say which photo goes with which project)
