@@ -38,3 +38,45 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Names or provinces of the 3 hospitals, and whether physiotherapists supervised the trials
 - [ ] Any awards, partners, links or a write-up
 - [ ] Photos
+
+---
+
+## 2. Embrace Gloves
+
+### Full notes
+
+- **What it is:** antibacterial, ventilated anti-scratch gloves for eczema patients, with a built-in scratch-counting system.
+- **Why I started it:** I have eczema myself.
+  - Every night I fell into a cycle of nocturnal scratching and woke up to bloodstained bedsheets.
+  - Emollients and steroids never worked for my skin, so the scratching didn't stop.
+  - For a while I slept in boxing gloves. My wounds improved, but the gloves were uncomfortable and trapped bacteria, which led to infections.
+- **My solution:**
+  - **Material:** made from recycled saline bottles from **Chonpratan Hospital**.
+  - **Ventilation:** holes drilled into them.
+  - **Antibacterial coating:** silver nanoparticles green-synthesised from **banana pseudostem**.
+  - **Research:** I tested how well the nanoparticles worked on the gloves. The research also let me optimise the antibacterial properties and choose the most suitable fabric.
+  - **Scratch-count system:** sensors in the gloves track scratching behaviour and connect to an app called **Scratch Guard**, which displays the results.
+- **Why the monitoring matters:** doctors normally judge an eczema patient's condition by looking at their wounds, which is subjective. Scratch Guard gives medical specialists objective data and gives patients more awareness of their own condition.
+- **Results:** sold to **3 hospitals**, **500+ pairs** in total.
+- **What makes it different:**
+  - Sustainable, because it's made from recycled hospital waste.
+  - The only anti-scratch gloves on the market with a scratch-monitoring system.
+  - **35 USD**, compared with **65 USD** for the cheapest antibacterial glove on the market (about 46% cheaper).
+
+### Website copy
+
+> **Embrace Gloves**
+> *Founder, Inventor, Researcher*
+>
+> Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves made from recycled saline bottles from Chonpratan Hospital and coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my Scratch Guard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
+
+### To confirm
+
+- [ ] Role title
+- [ ] Dates
+- [ ] How the saline bottles are used: rigid shell, recycled into fabric, or both? (the notes mention choosing a fabric too)
+- [ ] App name spelling: "Scratch Guard" or "ScratchGuard"?
+- [ ] Names of the 3 hospitals that bought the gloves
+- [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
+- [ ] Is the nanoparticle research written up or published? Any link?
+- [ ] Any awards, partners or photos
