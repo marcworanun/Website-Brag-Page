@@ -90,30 +90,32 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 - **What it is:** a community economics project in Bang Khlong Han Daeng village (spelling to confirm), Chachoengsao, Thailand.
 - **Research:** a **leakage and expenditure study** of the village, i.e. how money is spent and how much of it leaves the local economy.
-- **Advising businesses:** used the study's results to advise village business owners on how to raise their profits.
-- **E-commerce:** set up online shops for the businesses to add a new revenue stream. Drawing on what I learned from owning my clothing brand, I taught them:
+- **Advising businesses:** used the study's results to advise **5** village businesses on how to raise their profits.
+- **E-commerce:** set up **Shopee** and **Lazada** shops for the businesses to add a new revenue stream. Drawing on what I learned from owning my clothing brand, I taught them:
   - how to respond to customers
   - how to use the app effectively
-- **Result:** their profits rose by **over 12%**.
+- **Result:** their profits rose by **over 12%** over **3 months**.
 - **Teaching:** supported children at the village school by teaching basic economics, such as supply and demand and opportunity cost.
 - **Coming later from Marc:** the study's results and the advice given, to make the description more specific.
 
 ### Website copy (draft, to update once the study results arrive)
 
 > **Baan Panya**
-> *[Role]*
+> *Founder*
 >
-> In Bang Khlong Han Daeng village, Chachoengsao, I ran a leakage and expenditure study to track how money flows into and out of the local economy. Using the findings, I advised village business owners on raising their profits and set them up with e-commerce shops, drawing on my experience running my own clothing brand to coach them on customer service and selling online. Their profits rose by over 12%. I also taught children at the village school basic economics, from supply and demand to opportunity cost.
+> In Bang Khlong Han Daeng village, Chachoengsao, I ran a leakage and expenditure study to track how money flows into and out of the local economy. Using the findings, I advised five village businesses on raising their profits and set them up with Shopee and Lazada shops, drawing on my experience running my own clothing brand to coach them on customer service and selling online. Within three months, their profits rose by over 12%. I also taught children at the village school basic economics, from supply and demand to opportunity cost.
 
 ### To confirm
 
-- [ ] Role title (Founder? Lead Researcher?)
+- [x] Role title: Founder
 - [ ] Exact English spelling of the village name
 - [ ] Dates and how long the project ran
 - [ ] What "Baan Panya" means / whether it's the name of the project or an organisation
-- [ ] Number of businesses advised, and what kinds (food, crafts, farming…)
-- [ ] Which e-commerce platforms (Shopee, Lazada, TikTok Shop, LINE…)
-- [ ] Over what period profits rose 12%, and how it was measured
+- [x] Number of businesses advised: 5
+- [ ] What kinds of businesses (food, crafts, farming…)
+- [x] Platforms: Shopee and Lazada
+- [x] Period: 3 months
+- [ ] How the 12% profit rise was measured
 - [ ] Number of children taught and number of sessions
 - [ ] Study results and advice (Marc will send)
 - [ ] Photos
