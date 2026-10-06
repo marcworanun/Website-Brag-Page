@@ -53,7 +53,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - **My solution:**
   - **Material:** a hard inner shell made from recycled saline bottles from **Chonpratan Hospital**, wrapped in fabric.
   - **Ventilation:** holes drilled into the shell.
-  - **Antibacterial coating:** silver nanoparticles green-synthesised from **banana pseudostem**.
+  - **Antibacterial coating:** the fabric is coated with silver nanoparticles green-synthesised from **banana pseudostem**.
   - **Research:** I tested how well the nanoparticles worked on the gloves. The research also let me optimise the antibacterial properties and choose the most suitable fabric.
   - **Scratch-count system:** sensors in the gloves track scratching behaviour and connect to an app called **Scratch Guard**, which displays the results.
 - **Why the monitoring matters:** doctors normally judge an eczema patient's condition by looking at their wounds, which is subjective. Scratch Guard gives medical specialists objective data and gives patients more awareness of their own condition.
@@ -75,7 +75,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Role title
 - [ ] Dates
 - [x] How the saline bottles are used: hard inner shell, wrapped in fabric
-- [ ] Is the nanoparticle coating on the fabric, the shell, or both? (copy currently says fabric)
+- [x] Nanoparticle coating is on the fabric
 - [ ] App name spelling: "Scratch Guard" or "ScratchGuard"?
 - [ ] Names of the 3 hospitals that bought the gloves
 - [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
