@@ -96,14 +96,31 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
   - how to use the app effectively
 - **Result:** their profits rose by **over 12%** over **3 months**.
 - **Teaching:** supported children at the village school by teaching basic economics, such as supply and demand and opportunity cost.
-- **Coming later from Marc:** the study's results and the advice given, to make the description more specific.
+- **The survey:** household expenditure survey of **80 households (25% of the village)**.
+- **The common assumption:** shops lose customers because the supermarket in town is cheaper. The survey showed this is **not** the main reason, and that cutting prices would make shops poorer without winning customers back.
+- **Key findings:**
+  1. **Only about half the money leaving the village goes to town.** About a fifth goes to fertiliser dealers and a fifth to the pickup truck (รถพุ่มพวง) selling vegetables, pork and fish. Shops can't win either. (About ฿865/household/month to the truck, ฿946 to agricultural input dealers.)
+  2. **People shop in town on a few predictable paydays:** the 10th (elderly allowance), the end of the month (factory wages) and a few days after (remittances). 71% shop in town because they're already there for something else (bank, hospital, school); 54% buy in bulk when money comes in.
+  3. **Shops can't afford to stock what customers want because their money is lent out on tabs.** 61% of households owe a shop money; the average tab is ~฿840, about **฿55,000 per shop**. 40% said owing money is a reason they go to town instead. Fixing the product range would cost only ฿6,000–12,000.
+  - Also: 27% said the shop is often out of stock; 50% said it doesn't sell what they want; "cheaper in town" was only the second most common reason for shopping outside.
+  - About **฿17 million a year** leaves the village in total (most of it can't realistically be won back).
+- **The six pieces of advice** (ordered from easiest; the first three cost nothing):
+  1. Stock bulk items (5 kg rice, large cooking oil, multipacks) in the 2–3 days before each payday.
+  2. Keep a reorder card for the 20 fastest-selling items, with a minimum shelf quantity for each.
+  3. Keep a notebook of everything customers ask for that the shop doesn't have; review monthly.
+  4. Slow the growth of tabs without calling them in: ask for partial payment on paydays, set a gentle limit per family. Recovering even a fifth (~฿11,000) pays for the new stock.
+  5. Don't cut prices. If prices must fall, two shops can buy in bulk together so the saving comes from the wholesaler.
+  6. Don't compete for fresh food or fertiliser; focus on rice, oil, dry goods, cleaning and household goods.
+- **Expected effect** (from the report): ฿3,500–4,700 more per month per shop in the first year, an extra quarter to a third of a shopkeeper family's ~฿13,000 monthly income.
+- **How to check it worked:** rerun the survey or compare takings with payday dates after six months.
+- **Source:** "Baan Panya: Advice for the Village Shops" (6-page report, sent by Marc as a PDF; not yet in the repo).
 
-### Website copy (draft, to update once the study results arrive)
+### Website copy
 
 > **Baan Panya**
 > *Founder*
 >
-> In Bang Khlong Han Daeng village, Chachoengsao, I ran a leakage and expenditure study to track how money flows into and out of the local economy. Using the findings, I advised five village businesses on raising their profits and set them up with Shopee and Lazada shops, drawing on my experience running my own clothing brand to coach them on customer service and selling online. Within three months, their profits rose by over 12%. I also taught children at the village school basic economics, from supply and demand to opportunity cost.
+> Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, and set five shops up on Shopee and Lazada. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.
 
 ### To confirm
 
@@ -117,5 +134,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [x] Period: 3 months
 - [ ] How the 12% profit rise was measured
 - [ ] Number of children taught and number of sessions
-- [ ] Study results and advice (Marc will send)
+- [x] Study results and advice (received: advice report PDF)
+- [ ] Publish the advice report on the site as a "Read the report" button?
+- [ ] Was the 12% rise in profit or in revenue? And was it from the advice, the online shops, or both?
 - [ ] Photos
