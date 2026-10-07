@@ -1,10 +1,10 @@
 # Site plan
 
-Notes for the next version of the site, so they survive between sessions.
+Notes for the site, so they survive between sessions. The current `index.html` is built from these notes and the files in `content/`.
 
 ## Structure and style
 
-Same structure and overall feel as the reference site (sirinda.net), but with **different colours** (still to choose).
+Same structure and overall feel as the reference site (sirinda.net), but with **blue, white and green** colours.
 
 Sections, in order:
 
@@ -38,7 +38,7 @@ Draft:
 
 ## Still needed from Marc
 
-- Colour preferences
+- ~~Colour preferences~~ blue, white and green (built)
 - Project details (name, dates, role, what it does, results/numbers, links). Done so far: LunarLift, Embrace Gloves, Baan Panya, Ecoscope, see `content/projects.md`
 - ~~Clothing brand name and details~~ Ecoscope, see `content/projects.md`
 - ~~Extracurriculars~~ see `content/extracurriculars.md` (years and photos still needed)

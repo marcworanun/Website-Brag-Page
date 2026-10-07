@@ -26,14 +26,14 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **LunarLift**
 > *Founder, Inventor*
 >
-> After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and secured a licensing agreement with Retail Business Solutions to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.
+> After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.
 
 ### To confirm
 
 - [x] Role title: Founder, Inventor
 - [ ] Dates (start, trials, licence deal)
 - [ ] The notes list "a safety system" twice. Is there a third feature?
-- [ ] Licence status: signed, or still in progress? ("secured" in the copy assumes signed)
+- [ ] Licence status: signed, or still in progress? (copy now says "worked with … on a licensing agreement"; change to "secured" if signed)
 - [ ] FDA = US FDA or Thai FDA (อย.)?
 - [ ] Names or provinces of the 3 hospitals, and whether physiotherapists supervised the trials
 - [ ] Any partners, links or a write-up
