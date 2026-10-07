@@ -41,6 +41,6 @@ Draft:
 - Colour preferences
 - Project details (name, dates, role, what it does, results/numbers, links). Done so far: LunarLift, Embrace Gloves, Baan Panya, Ecoscope, see `content/projects.md`
 - ~~Clothing brand name and details~~ Ecoscope, see `content/projects.md`
-- Extracurriculars
+- ~~Extracurriculars~~ see `content/extracurriculars.md` (details still needed)
 - ~~Awards~~ see `content/awards.md` (years and photos still needed)
 - Photos (upload to the repo; say which photo goes with which project)
