@@ -75,7 +75,9 @@ img { max-width: 100%; display: block; }
 }
 .intro-text { text-align: center; }
 .hello { font-size: 1.15rem; text-align: left; margin: 0 0 4px; }
-.intro h1 { font-size: clamp(2.2rem, 5vw, 3rem); color: var(--blue-deep); margin-bottom: 18px; }
+.intro h1 { font-size: clamp(2rem, 4.6vw, 2.8rem); color: var(--blue-deep); margin-bottom: 6px; }
+.intro-text .nickname { font-style: italic; font-size: 1.05rem; margin: 0 0 20px; }
+.nickname span { color: var(--green); font-weight: 500; }
 .intro-text p { margin: 0 0 16px; }
 .intro-text em { color: var(--green-deep); font-style: italic; }
 
@@ -176,7 +178,7 @@ img { max-width: 100%; display: block; }
 @media (max-width: 560px) {
   :root { --header-h: 96px; }
   body { font-size: 15px; }
-  .site-name { font-size: 1.15rem; }
+  .site-name { font-size: 1rem; letter-spacing: .02em; }
   .tabs { justify-content: flex-start; gap: 6px; }
   .tabs a { font-size: .85rem; padding-right: 6px; }
   .tabs .long { display: none; }
@@ -184,4 +186,8 @@ img { max-width: 100%; display: block; }
   .stats li { min-width: 0; flex: 1 1 30%; padding: 12px 10px; }
   .stats strong { font-size: 1.3rem; }
   .gallery-3 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 400px) {
+  .tabs { gap: 4px; }
+  .tabs a { font-size: .78rem; padding-left: 4px; padding-right: 4px; }
 }

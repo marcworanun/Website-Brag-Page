@@ -17,6 +17,8 @@ Style notes from the reference: sticky name and tab bar at the top, gradient ban
 
 ## Intro (About Me)
 
+Full name: **Woranun Atikarnbodee**, nickname **Marc**. Header shows WORANUN (MARC) ATIKARNBODEE.
+
 How Marc wants to be introduced, kept broad:
 
 - Aspiring researcher
@@ -28,7 +30,8 @@ How Marc wants to be introduced, kept broad:
 Draft:
 
 > Hi! I'm
-> **Marc Woranun**
+> **Woranun Atikarnbodee**
+> *(but everyone calls me Marc)*
 >
 > I'm a junior at Shrewsbury International School Bangkok. I'm also an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...
 >
