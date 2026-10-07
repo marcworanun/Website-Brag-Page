@@ -36,8 +36,10 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Licence status: signed, or still in progress? ("secured" in the copy assumes signed)
 - [ ] FDA = US FDA or Thai FDA (อย.)?
 - [ ] Names or provinces of the 3 hospitals, and whether physiotherapists supervised the trials
-- [ ] Any awards, partners, links or a write-up
+- [ ] Any partners, links or a write-up
 - [ ] Photos
+
+**Awards** (details in `content/awards.md`): Diamond Challenge Global Finalist and First Place, Beijing stage; iCREATE Global Best Prototype Award (to confirm); Thailand Student Innovation Challenge Bronze Medal.
 
 ---
 
@@ -80,7 +82,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Names of the 3 hospitals that bought the gloves
 - [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
 - [ ] Is the nanoparticle research written up or published? Any link?
-- [ ] Any awards, partners or photos
+- [ ] Any partners or photos
+
+**Awards** (details in `content/awards.md`): WICO Gold Medal and Special Award; iCAN Gold Medal; IEOM 11th North American Conference Finalist; International Greenwich Olympiad Finalist.
 
 ---
 
