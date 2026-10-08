@@ -148,7 +148,8 @@ img { max-width: 100%; display: block; }
   border-bottom: 1px solid var(--line);
 }
 .award:last-child { border-bottom: 0; }
-.award:nth-child(even) .award-text { order: 2; }
+.award:nth-of-type(even) .award-text { order: 2; }
+.awards .award-group { text-align: center; margin-bottom: 8px; }
 .award h4 { font: 600 1.3rem var(--heading); color: var(--blue-deep); }
 .award h4 span { font: 300 1rem var(--body); color: var(--muted); }
 .award .project { font-style: italic; color: var(--green-deep); margin: 10px 0 2px; }
@@ -172,7 +173,7 @@ img { max-width: 100%; display: block; }
   .gallery { grid-template-columns: repeat(2, 1fr); }
   .gallery-3 { grid-template-columns: repeat(3, 1fr); }
   .award { grid-template-columns: 1fr; gap: 18px; }
-  .award:nth-child(even) .award-text { order: 0; }
+  .award:nth-of-type(even) .award-text { order: 0; }
   .award .ph-award, .award > img { justify-self: stretch; max-width: none; }
 }
 @media (max-width: 560px) {

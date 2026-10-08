@@ -2,7 +2,7 @@
 
 Layout on the site is the same as the reference: each award gets its own block with the **competition name and place**, the **project** (in italics), the **result** as a short bullet list, and a **photo slot** for the certificate, medal or stage photo.
 
-Ordered by how much weight admissions readers are likely to give them (global → international → national). Marc can reorder.
+On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iCREATE, Thailand Student Innovation Challenge), then Embrace Gloves (WICO, iCAN, IEOM, International Greenwich Olympiad), then Olympiads (Thai Economics Olympiad, UK Chemistry Olympiad). Each group is its own colour band with the project name as the heading.
 
 ---
 
