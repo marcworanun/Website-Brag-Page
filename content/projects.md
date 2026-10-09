@@ -85,8 +85,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
 - [ ] Is the nanoparticle research written up or published? Any link?
 - [ ] Any partners
-- [x] Photos: 9 in the gallery: lab research (treated fabric); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Scratch Guard app screenshot still wanted.
-- [ ] Marc called this batch "Embracing Eczema". Is that the project name, with Embrace Gloves as the product? Use one name consistently (awards list also said "Eczema Gloves").
+- [x] Photos: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Scratch Guard app screenshot still wanted.
+- [ ] The handover sign at Siriraj reads "EMBRACING ECZEMA" with a heart logo, so that looks like the project/brand name. Marc called this batch "Embracing Eczema". Is that the project name, with Embrace Gloves as the product? Use one name consistently (awards list also said "Eczema Gloves").
 - [ ] Hospital name: the sign reads "Panyananthaphikkhu Chonprathan Medical Center, Srinakharinwirot University". Site copy currently says "Chonpratan Hospital".
 - [ ] Gloves donated to the Baan Phraphon children's foundation: worth a line in the description? How many pairs?
 - [ ] Patient and children are identifiable: confirm the hospital, the patient and the foundation are fine with the photos being public.
