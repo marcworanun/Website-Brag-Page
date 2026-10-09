@@ -37,7 +37,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] FDA = US FDA or Thai FDA (อย.)?
 - [ ] Names or provinces of the 3 hospitals, and whether physiotherapists supervised the trials
 - [ ] Any partners, links or a write-up
-- [ ] Photos
+- [x] Photos (first batch): 2 trial photos, SIC Thailand demo, Diamond Challenge stage photo in the gallery. More coming.
 
 **Awards** (details in `content/awards.md`): Diamond Challenge Global Finalist and First Place, Beijing stage; iCREATE Global Best Prototype Award (to confirm); Thailand Student Innovation Challenge Bronze Medal.
 

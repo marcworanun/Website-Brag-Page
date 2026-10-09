@@ -122,6 +122,7 @@ img { max-width: 100%; display: block; }
 }
 .gallery-3 { grid-template-columns: repeat(3, 1fr); }
 .gallery > img, .gallery > .ph { aspect-ratio: 4 / 3; width: 100%; object-fit: cover; border-radius: 4px; }
+.gallery > img { object-position: center 40%; box-shadow: 0 4px 16px rgba(11, 60, 93, .12); }
 .ph {
   margin: 0;
   display: flex; align-items: center; justify-content: center;
@@ -155,6 +156,7 @@ img { max-width: 100%; display: block; }
 .award .project { font-style: italic; color: var(--green-deep); margin: 10px 0 2px; }
 .award ul { margin: 8px 0 0; padding-left: 22px; }
 .award .ph-award, .award > img { max-width: 360px; justify-self: center; border-radius: 4px; }
+.award > img { width: 100%; max-height: 420px; object-fit: cover; box-shadow: 0 4px 16px rgba(11, 60, 93, .12); }
 
 .site-footer {
   background: var(--blue-deep); color: #d6e6f0;
@@ -191,4 +193,19 @@ img { max-width: 100%; display: block; }
 @media (max-width: 400px) {
   .tabs { gap: 4px; }
   .tabs a { font-size: .78rem; padding-left: 4px; padding-right: 4px; }
+}
+
+/* Click-to-enlarge photos */
+.gallery img, .award img { cursor: zoom-in; }
+.lightbox {
+  position: fixed; inset: 0; z-index: 50;
+  background: rgba(8, 28, 42, .88);
+  display: flex; align-items: center; justify-content: center; padding: 24px;
+  cursor: zoom-out;
+}
+.lightbox[hidden] { display: none; }
+.lightbox img { max-width: 100%; max-height: 100%; border-radius: 4px; box-shadow: 0 10px 40px rgba(0, 0, 0, .4); }
+.lightbox-close {
+  position: absolute; top: 12px; right: 16px;
+  background: none; border: 0; color: #fff; font-size: 2.4rem; line-height: 1; cursor: pointer;
 }

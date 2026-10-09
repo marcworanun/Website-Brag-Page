@@ -59,10 +59,10 @@
           <li><strong>3</strong><span>rural hospitals</span></li>
         </ul>
         <div class="gallery">
-          <figure class="ph" data-label="LunarLift photo 1"></figure>
-          <figure class="ph" data-label="LunarLift photo 2"></figure>
-          <figure class="ph" data-label="LunarLift photo 3"></figure>
-          <figure class="ph" data-label="LunarLift photo 4"></figure>
+          <img src="images/lunarlift-trial-1.jpg" alt="Marc guiding a patient through a LunarLift trial at a rural hospital" loading="lazy">
+          <img src="images/lunarlift-trial-2.jpg" alt="A patient standing in LunarLift during a trial, with Marc at the controls" loading="lazy">
+          <img src="images/lunarlift-sic-thailand.jpg" alt="Marc with the LunarLift prototype at the Student Innovation Challenge Thailand" loading="lazy">
+          <img src="images/diamond-challenge-stage.jpg" alt="Marc receiving the Diamond Challenge award for LunarLift on stage" loading="lazy">
         </div>
         <div class="awards-list">
           <p class="label">Awards:</p>
@@ -206,7 +206,7 @@
               <li>First Place, Beijing stage</li>
             </ul>
           </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
+          <img class="award-photo" src="images/diamond-challenge-cheque.jpg" alt="Marc holding the Diamond Challenge Social Innovation cheque for LunarLift, 2025 Pitch Events in China" loading="lazy">
         </article>
 
         <article class="award">
@@ -227,7 +227,7 @@
               <li>Qualified for the Global Student Innovation Challenge (iCREATE)</li>
             </ul>
           </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
+          <img class="award-photo" src="images/lunarlift-sic-thailand.jpg" alt="Marc with LunarLift at the Student Innovation Challenge Thailand" loading="lazy">
         </article>
 
       </div>
@@ -315,6 +315,11 @@
     <p>© <span id="year">2026</span> Woranun (Marc) Atikarnbodee</p>
   </footer>
 
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lightbox-close" aria-label="Close photo">×</button>
+    <img alt="">
+  </div>
+
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
 
@@ -329,6 +334,15 @@
     }
     window.addEventListener('scroll', updateTabs, { passive: true });
     updateTabs();
+
+    // Click a photo to see it full size.
+    const lb = document.getElementById('lightbox');
+    const lbImg = lb.querySelector('img');
+    document.querySelectorAll('.gallery img, .award img').forEach(img => {
+      img.addEventListener('click', () => { lbImg.src = img.src; lbImg.alt = img.alt; lb.hidden = false; });
+    });
+    lb.addEventListener('click', () => { lb.hidden = true; });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.hidden = true; });
 
     // Gently fade sections in as they scroll into view.
     if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {

@@ -10,8 +10,9 @@ On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iC
 *LunarLift*
 - Global Finalist
 - First Place, Beijing stage
-- Year: [to confirm]
-- Photo: [ ]
+- Year: 2025 (cheque dated 22 Feb 2025, "Diamond Challenge 2025 Pitch Events in China")
+- From the photo: cheque is in the **Social Innovation** category, $200, from UD Horn Entrepreneurship. Is "First Place" first in the Social Innovation track?
+- Photo: [x] `images/diamond-challenge-cheque.jpg`
 
 ### Global Student Innovation Challenge (iCREATE)
 Shanghai, China
@@ -64,8 +65,8 @@ Thailand
 *LunarLift*
 - Bronze Medal
 - Qualified for the Global Student Innovation Challenge (iCREATE)
-- Year: [to confirm]
-- Photo: [ ]
+- Year: [to confirm] (event banner says 5 June; year is cut off in the photo; organised with NSTDA)
+- Photo: [x] `images/lunarlift-sic-thailand.jpg`
 
 ---
 
