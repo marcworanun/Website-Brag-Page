@@ -7,15 +7,16 @@
   <meta name="description" content="Woranun (Marc) Atikarnbodee: aspiring researcher, sustainable clothing brand founder, environmentalist and economist making effective healthcare more affordable.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&family=Poppins:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Questrial&family=Poppins:ital,wght@0,200;0,300;0,500;0,600;1,200;1,300&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <!--
     PHOTOS
-    Each <figure class="ph"> is an empty photo slot. To add a photo, replace the whole
-    <figure class="ph" ...></figure> with:  <img src="images/your-photo.jpg" alt="Short description">
+    Each <figure class="ph" ...></figure> is an empty photo slot. To add a photo, replace it with:
+      <img src="images/your-photo.jpg" alt="Short description" loading="lazy">
+    Photo grids can hold as many photos as you like; they wrap 4 to a row.
   -->
 
   <header class="site-header">
@@ -32,14 +33,13 @@
 
     <!-- ABOUT ME -->
     <section id="about" class="intro">
-      <div class="intro-card">
+      <div class="intro-box">
         <div class="intro-text">
           <p class="hello">Hi! I'm</p>
           <h1>Woranun Atikarnbodee</h1>
           <p class="nickname">(but everyone calls me <span>Marc</span>)</p>
-          <p>I'm a junior at Shrewsbury International School Bangkok. I'm also an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...</p>
-          <p>What ties it all together is a simple question: <em>why should good healthcare cost so much?</em> I design healthcare solutions that work as well as what's on the market, for a fraction of the price, because I believe effective care shouldn't depend on what you can afford.</p>
-          <p>This page walks you through what I've built so far. Enjoy!</p>
+          <p>I am a junior at Shrewsbury International School Bangkok. Beyond this, I am an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...</p>
+          <p>What ties it all together is a simple question: why should good healthcare cost so much? I design healthcare solutions that work as well as what's on the market, for a fraction of the price, because I believe effective care shouldn't depend on what you can afford. This page walks you through what I've built so far. Enjoy!</p>
         </div>
         <figure class="ph ph-portrait" data-label="Photo of Marc"></figure>
       </div>
@@ -48,145 +48,122 @@
     <!-- PROJECTS -->
     <div id="projects" class="banner"><h2>Projects</h2></div>
 
-    <section class="band band-sky">
-      <div class="band-inner">
-        <h3>LunarLift</h3>
-        <p class="role">Founder, Inventor</p>
-        <p class="desc">After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.</p>
-        <ul class="stats">
-          <li><strong>$650</strong><span>vs $5,500+ at home</span></li>
-          <li><strong>20</strong><span>patients trialled</span></li>
-          <li><strong>3</strong><span>rural hospitals</span></li>
+    <section class="band c-blue">
+      <h2 class="title">LunarLift</h2>
+      <p class="role">Founder, Inventor</p>
+      <p class="desc">After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.</p>
+      <div class="gallery">
+        <img src="images/lunarlift-trial-1.jpg" alt="Marc guiding a patient through a LunarLift trial at a rural hospital" loading="lazy">
+        <img src="images/lunarlift-trial-2.jpg" alt="A patient standing in LunarLift during a trial, with Marc at the controls" loading="lazy">
+        <img src="images/lunarlift-sic-thailand.jpg" alt="Marc with the LunarLift prototype at the Student Innovation Challenge Thailand" loading="lazy">
+        <img src="images/diamond-challenge-stage.jpg" alt="Marc receiving the Diamond Challenge award for LunarLift on stage" loading="lazy">
+      </div>
+      <div class="list-block">
+        <p class="label">Awards:</p>
+        <ul>
+          <li><strong>Diamond Challenge 2025</strong> – Global Finalist, First Place in the Beijing stage</li>
+          <li><strong>Global Student Innovation Challenge (iCREATE)</strong> – Global Best Prototype Award</li>
+          <li><strong>Thailand Student Innovation Challenge</strong> – Bronze Medal</li>
         </ul>
-        <div class="gallery">
-          <img src="images/lunarlift-trial-1.jpg" alt="Marc guiding a patient through a LunarLift trial at a rural hospital" loading="lazy">
-          <img src="images/lunarlift-trial-2.jpg" alt="A patient standing in LunarLift during a trial, with Marc at the controls" loading="lazy">
-          <img src="images/lunarlift-sic-thailand.jpg" alt="Marc with the LunarLift prototype at the Student Innovation Challenge Thailand" loading="lazy">
-          <img src="images/diamond-challenge-stage.jpg" alt="Marc receiving the Diamond Challenge award for LunarLift on stage" loading="lazy">
-        </div>
-        <div class="awards-list">
-          <p class="label">Awards:</p>
-          <ul>
-            <li><strong>Diamond Challenge</strong>: Global Finalist, First Place in the Beijing stage</li>
-            <li><strong>Global Student Innovation Challenge (iCREATE)</strong>, Shanghai: Global Best Prototype Award</li>
-            <li><strong>Thailand Student Innovation Challenge</strong>: Bronze Medal, qualified for iCREATE</li>
-          </ul>
-        </div>
       </div>
     </section>
 
-    <section class="band band-mint">
-      <div class="band-inner">
-        <h3>Embrace Gloves</h3>
-        <p class="role">Founder, Inventor, Researcher</p>
-        <p class="desc">Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonpratan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my Scratch Guard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.</p>
-        <ul class="stats">
-          <li><strong>500+</strong><span>pairs sold</span></li>
-          <li><strong>3</strong><span>hospitals</span></li>
-          <li><strong>$35</strong><span>vs $65 alternative</span></li>
+    <section class="band c-green">
+      <h2 class="title">Embrace Gloves</h2>
+      <p class="role">Founder, Inventor, Researcher</p>
+      <p class="desc">Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonpratan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my Scratch Guard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.</p>
+      <div class="gallery">
+        <figure class="ph" data-label="Embrace Gloves photo"></figure>
+        <figure class="ph" data-label="Embrace Gloves photo"></figure>
+        <figure class="ph" data-label="Embrace Gloves photo"></figure>
+        <figure class="ph" data-label="Scratch Guard app"></figure>
+      </div>
+      <div class="list-block">
+        <p class="label">Awards:</p>
+        <ul>
+          <li><strong>World Invention Creativity Olympics (WICO)</strong> – Gold Medal, Special Award</li>
+          <li><strong>International Invention Innovation Competition in Canada (iCAN)</strong> – Gold Medal</li>
+          <li><strong>IEOM 11th North American International Conference</strong> – Finalist</li>
+          <li><strong>International Greenwich Olympiad</strong> – Finalist</li>
         </ul>
-        <div class="gallery">
-          <figure class="ph" data-label="Embrace Gloves photo 1"></figure>
-          <figure class="ph" data-label="Embrace Gloves photo 2"></figure>
-          <figure class="ph" data-label="Embrace Gloves photo 3"></figure>
-          <figure class="ph" data-label="Scratch Guard app"></figure>
-        </div>
-        <div class="awards-list">
-          <p class="label">Awards:</p>
-          <ul>
-            <li><strong>World Invention Creativity Olympics (WICO)</strong>: Gold Medal, Special Award</li>
-            <li><strong>International Invention Innovation Competition in Canada (iCAN)</strong>: Gold Medal</li>
-            <li><strong>IEOM 11th North American International Conference</strong>: Finalist</li>
-            <li><strong>International Greenwich Olympiad</strong>: Finalist</li>
-          </ul>
-        </div>
       </div>
     </section>
 
-    <section class="band band-white">
-      <div class="band-inner">
-        <h3>Baan Panya</h3>
-        <p class="role">Founder</p>
-        <p class="desc">Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, and set five shops up on Shopee and Lazada. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.</p>
-        <ul class="stats">
-          <li><strong>80</strong><span>households surveyed</span></li>
-          <li><strong>5</strong><span>shops advised</span></li>
-          <li><strong>12%+</strong><span>profit increase</span></li>
-        </ul>
-        <div class="gallery">
-          <figure class="ph" data-label="Baan Panya photo 1"></figure>
-          <figure class="ph" data-label="Baan Panya photo 2"></figure>
-          <figure class="ph" data-label="Baan Panya photo 3"></figure>
-          <figure class="ph" data-label="Teaching at the village school"></figure>
-        </div>
+    <section class="band c-pale">
+      <h2 class="title">Baan Panya</h2>
+      <p class="role">Founder</p>
+      <p class="desc">Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, and set five shops up on Shopee and Lazada. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.</p>
+      <div class="gallery">
+        <figure class="ph" data-label="Baan Panya photo"></figure>
+        <figure class="ph" data-label="Baan Panya photo"></figure>
+        <figure class="ph" data-label="Baan Panya photo"></figure>
+        <figure class="ph" data-label="Teaching at the village school"></figure>
       </div>
     </section>
 
-    <section class="band band-aqua">
-      <div class="band-inner">
-        <h3>Ecoscope</h3>
-        <p class="role">Founder</p>
-        <p class="desc">Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.</p>
-        <ul class="stats">
-          <li><strong>7</strong><span>pop-up stores</span></li>
-          <li><strong>200+</strong><span>pieces sold</span></li>
-          <li><strong>$2,000+</strong><span>revenue</span></li>
-        </ul>
-        <div class="gallery">
-          <figure class="ph" data-label="Ecoscope design 1"></figure>
-          <figure class="ph" data-label="Ecoscope design 2"></figure>
-          <figure class="ph" data-label="Ecoscope design 3"></figure>
-          <figure class="ph" data-label="Pop-up store"></figure>
-        </div>
+    <section class="band c-mint">
+      <h2 class="title">Ecoscope</h2>
+      <p class="role">Founder</p>
+      <p class="desc">Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.</p>
+      <div class="gallery">
+        <figure class="ph" data-label="Ecoscope design"></figure>
+        <figure class="ph" data-label="Ecoscope design"></figure>
+        <figure class="ph" data-label="Ecoscope design"></figure>
+        <figure class="ph" data-label="Pop-up store"></figure>
       </div>
     </section>
 
     <!-- EXTRACURRICULARS -->
     <div id="extracurriculars" class="banner"><h2>Extracurriculars</h2></div>
 
-    <section class="band band-mint">
-      <div class="band-inner">
-        <h3>Sustainability Textiles Design Club</h3>
-        <p class="role">Founder</p>
-        <p class="desc">I founded a 10-member club where students design their own clothing pieces while educating the wider school about the harms of fast fashion.</p>
-        <div class="gallery gallery-3">
-          <figure class="ph" data-label="Club photo 1"></figure>
-          <figure class="ph" data-label="Club photo 2"></figure>
-          <figure class="ph" data-label="Club photo 3"></figure>
+    <section class="band c-sky">
+      <h2 class="title">Sustainability Textiles Design Club</h2>
+      <p class="role">Founder</p>
+      <p class="desc">I founded a 10-member club where students design their own clothing pieces while educating the wider school about the harms of fast fashion.</p>
+      <div class="gallery">
+        <figure class="ph" data-label="Club photo"></figure>
+        <figure class="ph" data-label="Club photo"></figure>
+        <figure class="ph" data-label="Club photo"></figure>
+        <figure class="ph" data-label="Club photo"></figure>
+      </div>
+    </section>
+
+    <section class="band c-sage">
+      <h2 class="title">House Captain</h2>
+      <p class="role">Schweitzer House</p>
+      <p class="desc">As House Captain, I led around 150 students through inter-house events including House Music and House Filmfest, and we won House Football.</p>
+      <div class="gallery">
+        <figure class="ph" data-label="House Music"></figure>
+        <figure class="ph" data-label="House Filmfest"></figure>
+        <figure class="ph" data-label="House Football"></figure>
+        <figure class="ph" data-label="House photo"></figure>
+      </div>
+    </section>
+
+    <section class="band c-ice">
+      <div class="pair">
+        <div>
+          <h2 class="title">Varsity Football</h2>
+          <p class="role">Midfielder</p>
+          <p class="desc small">I play midfield for Shrewsbury's varsity football team, finishing 2nd in the Bangkok Community Cup and 2nd in BISA.</p>
+          <div class="gallery two">
+            <figure class="ph" data-label="Football photo"></figure>
+            <figure class="ph" data-label="Football photo"></figure>
+            <figure class="ph" data-label="Football photo"></figure>
+            <figure class="ph" data-label="Football photo"></figure>
+          </div>
         </div>
-      </div>
-    </section>
-
-    <section class="band band-sky">
-      <div class="band-inner">
-        <h3>House Captain</h3>
-        <p class="role">Schweitzer House</p>
-        <p class="desc">As House Captain, I led around 150 students through inter-house events including House Music and House Filmfest, and we won House Football.</p>
-        <div class="gallery gallery-3">
-          <figure class="ph" data-label="House Music"></figure>
-          <figure class="ph" data-label="House Filmfest"></figure>
-          <figure class="ph" data-label="House Football"></figure>
-        </div>
-      </div>
-    </section>
-
-    <section class="band band-white">
-      <div class="band-inner">
-        <h3>Form Representative</h3>
-        <p class="role">Year 12</p>
-        <p class="desc">I gathered my year group's views on school policy and helped secure more support for students preparing for the SAT.</p>
-      </div>
-    </section>
-
-    <section class="band band-aqua">
-      <div class="band-inner">
-        <h3>Varsity Football</h3>
-        <p class="role">Midfielder</p>
-        <p class="desc">I play midfield for Shrewsbury's varsity football team, finishing 2nd in the Bangkok Community Cup and 2nd in BISA.</p>
-        <div class="gallery gallery-3">
-          <figure class="ph" data-label="Football photo 1"></figure>
-          <figure class="ph" data-label="Football photo 2"></figure>
-          <figure class="ph" data-label="Football photo 3"></figure>
+        <div>
+          <h2 class="title">Form Representative</h2>
+          <p class="role">Year 12</p>
+          <ul class="points">
+            <li>Gathered my year group's views on school policy</li>
+            <li>Helped secure more support for students preparing for the SAT</li>
+          </ul>
+          <div class="gallery two">
+            <figure class="ph" data-label="Form rep photo"></figure>
+            <figure class="ph" data-label="Form rep photo"></figure>
+          </div>
         </div>
       </div>
     </section>
@@ -194,125 +171,132 @@
     <!-- AWARDS & RECOGNITION -->
     <div id="awards" class="banner"><h2>Recognition (Awards)</h2></div>
 
-    <section class="band band-sky awards">
-      <div class="band-inner">
-        <h3 class="award-group">LunarLift</h3>
+    <section class="band c-awards awards">
+      <h2 class="title">Awards</h2>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>Diamond Challenge</h4>
-            <ul>
-              <li>Global Finalist</li>
-              <li>First Place, Beijing stage</li>
-            </ul>
-          </div>
-          <img class="award-photo" src="images/diamond-challenge-cheque.jpg" alt="Marc holding the Diamond Challenge Social Innovation cheque for LunarLift, 2025 Pitch Events in China" loading="lazy">
-        </article>
+      <h3 class="award-group">LunarLift</h3>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>Global Student Innovation Challenge (iCREATE)<br><span>in Shanghai, China</span></h4>
-            <ul>
-              <li>Global Best Prototype Award</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
-        </article>
+      <article class="award">
+        <div class="award-text">
+          <h4>Diamond Challenge 2025<br>Pitch Events in China</h4>
+          <ul>
+            <li>Global Finalist</li>
+            <li>First Place, Beijing stage</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <img src="images/diamond-challenge-cheque.jpg" alt="Marc holding the Diamond Challenge Social Innovation cheque for LunarLift, 2025 Pitch Events in China" loading="lazy">
+        </div>
+      </article>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>Thailand Student Innovation Challenge</h4>
-            <ul>
-              <li>Bronze Medal</li>
-              <li>Qualified for the Global Student Innovation Challenge (iCREATE)</li>
-            </ul>
-          </div>
-          <img class="award-photo" src="images/lunarlift-sic-thailand.jpg" alt="Marc with LunarLift at the Student Innovation Challenge Thailand" loading="lazy">
-        </article>
+      <article class="award">
+        <div class="award-text">
+          <h4>Global Student Innovation Challenge (iCREATE)<br>in Shanghai, China</h4>
+          <ul>
+            <li>Global Best Prototype Award</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / medal"></figure>
+        </div>
+      </article>
 
-      </div>
-    </section>
+      <article class="award">
+        <div class="award-text">
+          <h4>Thailand Student Innovation Challenge</h4>
+          <ul>
+            <li>Bronze Medal</li>
+            <li>Qualified for the Global Student Innovation Challenge (iCREATE)</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <img src="images/lunarlift-sic-thailand.jpg" alt="Marc with LunarLift at the Student Innovation Challenge Thailand" loading="lazy">
+        </div>
+      </article>
 
-    <section class="band band-mint awards">
-      <div class="band-inner">
-        <h3 class="award-group">Embrace Gloves</h3>
+      <h3 class="award-group">Embrace Gloves</h3>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>World Invention Creativity Olympics (WICO)</h4>
-            <ul>
-              <li>Gold Medal</li>
-              <li>Special Award</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
-        </article>
+      <article class="award">
+        <div class="award-text">
+          <h4>World Invention Creativity Olympics (WICO)</h4>
+          <ul>
+            <li>Gold Medal</li>
+            <li>Special Award</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / medal"></figure>
+        </div>
+      </article>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>International Invention Innovation Competition in Canada (iCAN)<br><span>in Toronto, Canada</span></h4>
-            <ul>
-              <li>Gold Medal</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
-        </article>
+      <article class="award">
+        <div class="award-text">
+          <h4>International Invention Innovation Competition in Canada (iCAN)<br>in Toronto, Canada</h4>
+          <ul>
+            <li>Gold Medal</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / medal"></figure>
+        </div>
+      </article>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>IEOM 11th North American International Conference on Industrial Engineering and Operations Management</h4>
-            <ul>
-              <li>Finalist</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / photo"></figure>
-        </article>
+      <article class="award">
+        <div class="award-text">
+          <h4>IEOM 11th North American International Conference on Industrial Engineering and Operations Management</h4>
+          <ul>
+            <li>Finalist</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / photo"></figure>
+        </div>
+      </article>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>International Greenwich Olympiad</h4>
-            <ul>
-              <li>Finalist</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / photo"></figure>
-        </article>
+      <article class="award">
+        <div class="award-text">
+          <h4>International Greenwich Olympiad</h4>
+          <ul>
+            <li>Finalist</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / photo"></figure>
+        </div>
+      </article>
 
-      </div>
-    </section>
+      <h3 class="award-group">Olympiads</h3>
 
-    <section class="band band-white awards">
-      <div class="band-inner">
-        <h3 class="award-group">Olympiads</h3>
+      <article class="award">
+        <div class="award-text">
+          <h4>Thai Economics Olympiad</h4>
+          <ul>
+            <li>Silver Medal</li>
+            <li>Top 15 in Thailand</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / medal"></figure>
+        </div>
+      </article>
 
-        <article class="award">
-          <div class="award-text">
-            <h4>Thai Economics Olympiad</h4>
-            <ul>
-              <li>Silver Medal</li>
-              <li>Top 15 in Thailand</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
-        </article>
-
-        <article class="award">
-          <div class="award-text">
-            <h4>UK Chemistry Olympiad<br><span>Royal Society of Chemistry</span></h4>
-            <ul>
-              <li>Gold Medal</li>
-            </ul>
-          </div>
-          <figure class="ph ph-award" data-label="Certificate / medal"></figure>
-        </article>
-
-      </div>
+      <article class="award">
+        <div class="award-text">
+          <h4>UK Chemistry Olympiad<br>by the Royal Society of Chemistry</h4>
+          <ul>
+            <li>Gold Medal</li>
+          </ul>
+        </div>
+        <div class="award-photos">
+          <figure class="ph" data-label="Certificate / medal"></figure>
+        </div>
+      </article>
     </section>
 
   </main>
 
   <footer class="site-footer">
-    <p>© <span id="year">2026</span> Woranun (Marc) Atikarnbodee</p>
+    <p>©<span id="year">2026</span> Woranun Atikarnbodee. All rights reserved.</p>
   </footer>
 
   <div class="lightbox" id="lightbox" hidden>
@@ -338,19 +322,11 @@
     // Click a photo to see it full size.
     const lb = document.getElementById('lightbox');
     const lbImg = lb.querySelector('img');
-    document.querySelectorAll('.gallery img, .award img').forEach(img => {
+    document.querySelectorAll('.gallery img, .award-photos img').forEach(img => {
       img.addEventListener('click', () => { lbImg.src = img.src; lbImg.alt = img.alt; lb.hidden = false; });
     });
     lb.addEventListener('click', () => { lb.hidden = true; });
     document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.hidden = true; });
-
-    // Gently fade sections in as they scroll into view.
-    if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      const io = new IntersectionObserver(entries => {
-        entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('shown'); io.unobserve(e.target); } });
-      }, { threshold: 0.12 });
-      document.querySelectorAll('.band-inner, .intro-card').forEach(el => { el.classList.add('fade'); io.observe(el); });
-    }
   </script>
 </body>
 </html>

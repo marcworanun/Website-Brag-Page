@@ -13,7 +13,17 @@ Sections, in order:
 3. **Extracurriculars**: same band layout, shorter entries
 4. **Awards & Recognition**: each award next to a photo of the certificate or medal, plus a Media Coverage list
 
-Style notes from the reference: sticky name and tab bar at the top, gradient banner strips between sections, soft pastel background per project, centred text, rounded heading font with a light body font, solid rectangular buttons.
+Style, matched closely to the reference:
+
+- Header: name in green capitals, four tabs underneath with a thin dark line above each (thick line on the current tab), off-white background.
+- About Me: coloured box, "Hi! I'm" on the left, name in large regular-weight type, nickname in italics aligned right, photo on the right.
+- Banners: soft blurred gradient strip (blue and green here) with the section title in white.
+- Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, 4-across photo grid (215×161), then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.
+- Two shorter activities sit side by side in one band (Varsity Football and Form Representative).
+- Awards: one band with an "Awards" heading, grouped by project; each award has text on one side and a tall photo on the other, alternating sides.
+- Footer: thin bar, "© year Name. All rights reserved."
+- Fonts: Poppins ExtraLight for body (same as the reference). Headings use Questrial, the closest free match to the reference's Wix-only "Aether" font.
+- Media Coverage section: add when Marc has articles or posts to list.
 
 ## Intro (About Me)
 
