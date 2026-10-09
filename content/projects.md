@@ -199,4 +199,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Who are the artisans (community, location)?
 - [ ] Where the pop-ups were held
 - [ ] Website or Instagram link
-- [ ] Photos (designs, pop-up stores)
+- [x] Photos (first batch, 4): spinning fibre with an artisan; Marc and a teammate in Ecoscope jackets at the pop-up store; the team outside the pop-up at night; Marc with a customer at a pop-up stall. A near-duplicate customer photo was left out.
+- [ ] Close-up of an animal design still wanted: the designs visible so far (jackets, T-shirts with a ribbon motif) don't show an animal, and the description says each design features one.
+- [ ] Artisan photo: where is this (community/province)? What fibre is being spun?
+- [ ] Pop-up locations: night-market stall (number 28 082) and an indoor event venue. Names?
