@@ -152,7 +152,10 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [x] Study results and advice (received: advice report PDF)
 - [ ] Publish the advice report on the site as a "Read the report" button?
 - [ ] Was the 12% rise in profit or in revenue? And was it from the advice, the online shops, or both?
-- [ ] Photos
+- [x] Photos (first batch, 5): presenting advice/online-selling posters to villagers; talking with a resident; selfie with villagers; students outside the school cooperative shop; teaching a class at the village school. More coming.
+- [ ] School cooperative: the building's sign reads roughly "Ban[khlong]handaeng School Cooperative Project by Marc Atikarnbodee". Did Marc set up a school co-op shop? Not in the description yet; worth adding (what it sells, who runs it, profits).
+- [ ] Village spelling: the sign suggests "Bankhlonghandaeng". Confirm the official English spelling.
+- [ ] Classroom photo: the slide reads "เอ็กซีมาคืออะไร?" ("What is eczema?") and glove packs are on the desks; it is the same pink classroom as the Embrace Gloves school-donation photo. Placed in Baan Panya as asked; could move to Embrace Gloves, or swap for a photo of the economics lessons.
 
 ---
 
