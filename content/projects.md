@@ -37,7 +37,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] FDA = US FDA or Thai FDA (อย.)?
 - [ ] Names or provinces of the 3 hospitals, and whether physiotherapists supervised the trials
 - [ ] Any partners, links or a write-up
-- [x] Photos (first batch): 2 trial photos, SIC Thailand demo, Diamond Challenge stage photo in the gallery. More coming.
+- [x] Photos: 9 in the gallery (4 trial photos, outside a rural hospital, building the frame, pitching against existing devices, SIC Thailand demo, Diamond Challenge stage)
+- [ ] The trial device (red and white, labelled "Lift & Walk", "CED²", "T36") looks different from the white prototype at SIC Thailand and in the workshop. Is it a later version? Be ready to explain this in interviews.
+- [ ] Pitch photo ("Existing Innovations" slide, MTEC/NSTDA judge nameplate): which event? If SIC Thailand, it can also go next to that award.
 
 **Awards** (details in `content/awards.md`): Diamond Challenge Global Finalist and First Place, Beijing stage; iCREATE Global Best Prototype Award (to confirm); Thailand Student Innovation Challenge Bronze Medal.
 
