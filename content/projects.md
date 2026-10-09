@@ -152,9 +152,11 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [x] Study results and advice (received: advice report PDF)
 - [ ] Publish the advice report on the site as a "Read the report" button?
 - [ ] Was the 12% rise in profit or in revenue? And was it from the advice, the online shops, or both?
-- [x] Photos (first batch, 5): presenting advice/online-selling posters to villagers; talking with a resident; selfie with villagers; students outside the school cooperative shop; teaching a class at the village school. More coming.
-- [ ] School cooperative: the building's sign reads roughly "Ban[khlong]handaeng School Cooperative Project by Marc Atikarnbodee". Did Marc set up a school co-op shop? Not in the description yet; worth adding (what it sells, who runs it, profits).
-- [ ] Village spelling: the sign suggests "Bankhlonghandaeng". Confirm the official English spelling.
+- [x] Photos (9): presenting advice posters to villagers; helping a shop owner set up her online shop on her phone; talking with a resident; coaching a business owner (handmade roses) over a LINE video call; selfie with villagers; students outside and inside the school cooperative shop; students in front of the school mural; teaching a class. A near-duplicate mural photo was left out; the video-call screenshot was cropped to remove the phone status bar.
+- [ ] School cooperative: the sign inside the shop reads "Banklonghandaeng School Cooperative Project by Marc Atikarnbodee" (confirmed in a clear photo). Shop sells snacks, toiletries and stationery. Did Marc set up a school co-op shop? Not in the description yet; worth adding (what it sells, who runs it, profits).
+- [ ] Village spelling: Marc's own sign says "Banklonghandaeng" (Ban = village), but the site copy says "Bang Khlong Han Daeng" from Marc's first message. Pick one and use it everywhere.
+- [ ] Handmade roses business (video call): is this one of the 5 shops? What does it sell online?
+- [ ] Video-call photo shows a villager's face from a private call: confirm she is happy for it to be public.
 - [ ] Classroom photo: the slide reads "เอ็กซีมาคืออะไร?" ("What is eczema?") and glove packs are on the desks; it is the same pink classroom as the Embrace Gloves school-donation photo. Placed in Baan Panya as asked; could move to Embrace Gloves, or swap for a photo of the economics lessons.
 
 ---
