@@ -156,7 +156,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] School cooperative: the sign inside the shop reads "Banklonghandaeng School Cooperative Project by Marc Atikarnbodee" (confirmed in a clear photo). Shop sells snacks, toiletries and stationery. Did Marc set up a school co-op shop? Not in the description yet; worth adding (what it sells, who runs it, profits).
 - [ ] Village spelling: Marc's own sign says "Banklonghandaeng" (Ban = village), but the site copy says "Bang Khlong Han Daeng" from Marc's first message. Pick one and use it everywhere.
 - [ ] Handmade roses business (video call): is this one of the 5 shops? What does it sell online?
-- [ ] Video-call photo shows a villager's face from a private call: confirm she is happy for it to be public.
+- [x] Video-call photo: Marc confirmed it should be on the site.
 - [ ] Classroom photo: the slide reads "เอ็กซีมาคืออะไร?" ("What is eczema?") and glove packs are on the desks; it is the same pink classroom as the Embrace Gloves school-donation photo. Placed in Baan Panya as asked; could move to Embrace Gloves, or swap for a photo of the economics lessons.
 
 ---
