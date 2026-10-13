@@ -96,7 +96,6 @@ img { display: block; max-width: 100%; }
 
 /* Full-width colour bands */
 .band { padding: 34px 16px 44px; text-align: center; }
-.band + .band { border-top: 1px solid rgba(255, 255, 255, .7); }
 .c-blue { background: var(--c-blue); }
 .c-green { background: var(--c-green); }
 .c-pale { background: var(--c-pale); }
@@ -147,16 +146,17 @@ img { display: block; max-width: 100%; }
 .list-block ul { margin: 0; padding-left: 24px; }
 
 /* Two activities side by side */
-.pair { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; max-width: 900px; margin: 0 auto; }
+.pair { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; max-width: 900px; margin: 0 auto; align-items: start; }
 .points { text-align: left; max-width: 400px; margin: 0 auto; padding-left: 22px; font-size: .98rem; }
-.pair .gallery { margin-top: 30px; }
+.pair .gallery { margin-top: 26px; }
+.pair .title { font-size: clamp(1.7rem, 3.4vw, 2.3rem); }
 
 /* Awards & Recognition */
 .awards .title { margin-bottom: 20px; }
-.award-group { font-size: 1.7rem; margin: 46px 0 6px; }
+.award-group { font-size: 1.7rem; margin: 30px 0 0; }
 .award {
   display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: center;
-  max-width: 900px; margin: 0 auto; padding: 40px 0;
+  max-width: 900px; margin: 0 auto; padding: 26px 0;
   text-align: left;
 }
 .award:nth-of-type(even) .award-text { order: 2; }
@@ -165,8 +165,8 @@ img { display: block; max-width: 100%; }
 .award-photos { display: flex; justify-content: center; gap: 8px; }
 .award-photos { flex-wrap: wrap; }
 /* Award photos keep their own shape so certificates are never cropped */
-.award-photos > img { width: auto; height: auto; max-width: 100%; max-height: 380px; cursor: zoom-in; box-shadow: 0 4px 14px rgba(10, 26, 18, .12); }
-.award-photos > .ph { width: 266px; max-width: 100%; aspect-ratio: 266 / 345; }
+.award-photos > img { width: auto; height: auto; max-width: 100%; max-height: 280px; cursor: zoom-in; box-shadow: 0 4px 14px rgba(10, 26, 18, .12); }
+.award-photos > .ph { width: 210px; max-width: 100%; aspect-ratio: 3 / 4; }
 
 /* Footer: thin bar */
 .site-footer { background: var(--c-intro); text-align: center; font-size: .8rem; font-weight: 300; padding: 4px 16px; }
@@ -201,7 +201,7 @@ img { display: block; max-width: 100%; }
   .ph-portrait { max-width: 270px; margin: 0 auto; }
   .gallery > img, .gallery > .ph,
   .gallery.two > img, .gallery.two > .ph { width: calc((100% - 10px) / 2); }
-  .pair { grid-template-columns: 1fr; gap: 50px; }
+  .pair { grid-template-columns: 1fr; gap: 36px; }
   .award { grid-template-columns: 1fr; gap: 18px; padding: 26px 0; }
   .award:nth-of-type(even) .award-text { order: 0; }
 }
