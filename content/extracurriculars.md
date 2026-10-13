@@ -47,5 +47,7 @@ Same layout as the reference site: each one gets a colour band with **name**, **
 - [ ] BISA full name and year of each result
 - [ ] Order (suggested: club first, then House Captain, Form Rep, Football)
 - [x] House Captain photos (5): House Music performance; captains in red costumes at a house assembly; house in the theatre; outdoor group photo (black phone bars trimmed); students on the sports field
-- [ ] Photos for the club, football and form rep
+- [x] Football photos (4): shot on goal (shirt reads ATIKARNBODEE 12); dribbling past a defender; running in midfield; team with 2nd place trophy and silver medals at FOBISIA Football 2024
+- [ ] "BISA" in Marc's list: the team photo shows FOBISIA Football 2024, 2nd place. Is BISA = FOBISIA? If so, change the description to "2nd at FOBISIA 2024".
+- [ ] Photos for the club and form rep
 - [ ] Is the theatre photo House Filmfest? Is the field photo House Football or sports day?
