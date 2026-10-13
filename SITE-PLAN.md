@@ -20,7 +20,7 @@ Style, matched closely to the reference:
 - Banners: soft blurred gradient strip (blue and green here) with the section title in white.
 - Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, 4-across photo grid (215×161), then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.
 - Extracurriculars are paired side by side, two per band, like the reference's Student Council/Ambassadors and Tennis/Music bands: Club + House Captain, then Varsity Football + Form Representative. Each has a 2-across photo grid. No divider lines between bands; on phones the pairs stack.
-- Awards: one band with an "Awards" heading, grouped by project; each award has text on one side and its photo on the other (max 280px tall, never cropped), alternating sides, rows packed closely like the reference.
+- Awards: one band with an "Awards" heading, grouped by project; each award has text on one side and its photo on the other (max 240px tall, never cropped; awards with several photos show them in a small grid), alternating sides, rows packed tightly with about 16px between awards.
 - Footer: thin bar, "© year Name. All rights reserved."
 - Fonts: Poppins ExtraLight for body (same as the reference). Headings use Questrial, the closest free match to the reference's Wix-only "Aether" font.
 - Media Coverage section: add when Marc has articles or posts to list.
