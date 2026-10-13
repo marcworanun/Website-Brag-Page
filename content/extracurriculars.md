@@ -46,4 +46,6 @@ Same layout as the reference site: each one gets a colour band with **name**, **
 - [x] Football: midfielder, 2nd Bangkok Community Cup, 2nd BISA
 - [ ] BISA full name and year of each result
 - [ ] Order (suggested: club first, then House Captain, Form Rep, Football)
-- [ ] Photos for each
+- [x] House Captain photos (5): House Music performance; captains in red costumes at a house assembly; house in the theatre; outdoor group photo (black phone bars trimmed); students on the sports field
+- [ ] Photos for the club, football and form rep
+- [ ] Is the theatre photo House Filmfest? Is the field photo House Football or sports day?
