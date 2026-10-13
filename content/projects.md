@@ -59,7 +59,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
   - Emollients and steroids never worked for my skin, so the scratching didn't stop.
   - For a while I slept in boxing gloves. My wounds improved, but the gloves were uncomfortable and trapped bacteria, which led to infections.
 - **My solution:**
-  - **Material:** a hard inner shell made from recycled saline bottles from **Chonpratan Hospital**, wrapped in fabric.
+  - **Material:** a hard inner shell made from recycled saline bottles from **Chonprathan Hospital**, wrapped in fabric.
   - **Ventilation:** holes drilled into the shell.
   - **Antibacterial coating:** the fabric is coated with silver nanoparticles green-synthesised from **banana pseudostem**.
   - **Research:** I tested how well the nanoparticles worked on the gloves. The research also let me optimise the antibacterial properties and choose the most suitable fabric.
@@ -76,7 +76,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Embrace Gloves**
 > *Founder, Inventor, Researcher*
 >
-> Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonpratan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
+> Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonprathan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
 
 ### To confirm
 
@@ -92,7 +92,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Any partners
 - [x] Photos: 14 in the gallery (added 3: two at Ramathibodi, one institute visit). Earlier list: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Glove prototype photo (built-in display reads "Count: 48") and ScratchGuard app screenshot added, 16 photos total.
 - [ ] The handover sign at Siriraj reads "EMBRACING ECZEMA" with a heart logo, so that looks like the project/brand name. Marc called this batch "Embracing Eczema". Is that the project name, with Embrace Gloves as the product? Use one name consistently (awards list also said "Eczema Gloves").
-- [ ] Hospital name: the sign reads "Panyananthaphikkhu Chonprathan Medical Center, Srinakharinwirot University". Site copy currently says "Chonpratan Hospital".
+- [x] Spelling: "Chonprathan" (Marc confirmed). Full name on the sign: "Panyananthaphikkhu Chonprathan Medical Center, Srinakharinwirot University"; site says "Chonprathan Hospital".
 - [ ] Gloves donated to the Baan Phraphon children's foundation: worth a line in the description? How many pairs?
 - [ ] Patient and children are identifiable: confirm the hospital, the patient and the foundation are fine with the photos being public.
 - [ ] Second patient photo: the elderly man appears asleep. If he is family, check the family is happy for it to be public; can crop his face out.
