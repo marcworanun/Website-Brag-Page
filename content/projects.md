@@ -199,8 +199,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Who are the artisans (community, location)?
 - [ ] Where the pop-ups were held
 - [ ] Website or Instagram link
-- [x] Photos (8, two full rows): artisans first (spinning fibre; sewing with an artisan; weaving on a hand loom), then the pop-ups (hanging T-shirts while setting up; Marc and a teammate in Ecoscope jackets; shoppers browsing at the night market; the team outside at night; Marc with a customer). A near-duplicate customer photo was left out.
-- [ ] Close-up of an animal design still wanted: the designs visible so far (jackets, T-shirts with a ribbon motif) don't show an animal, and the description says each design features one.
+- [x] Photos (13): artisans (spinning; sewing; hand loom); close-up of the printed waffle-knit T-shirts; night-market pop-up (setting up; jackets; shoppers; team); stalls at other events (with a customer; outside a gallery event; Amazing Thailand "Travel Bingo"; Amazing Thailand "Travel with Care"; an outdoor tent). A near-duplicate customer photo was left out.
+- [ ] Design close-up: the printed waffle-knit T-shirts may show an animal (an eye is visible), but it's hard to tell. Which animal is it? If none, a close-up of an animal print is still wanted. Neck label isn't readable; does it say Ecoscope?
 - [ ] Artisans: the banner in the sewing photo reads "กลุ่มอาชีพการทอผ้าย้อมสีธรรมชาติ ตำบลแจ้ซ้อน อำเภอเมือง…" (natural-dye weaving occupational group, Chae Son subdistrict; district cut off, likely Mueang Pan, Lampang). Supported by the Department of Women's Affairs and Family Development. Confirm the group's name and province.
 - [ ] Fabric: the photos show hand-spun, hand-woven, natural-dyed fabric on a loom, but the description says "banana and pineapple-leaf fibres and recycled PET". Is the fruit fibre blended into this hand-woven fabric? Make sure the description matches what's in the photos.
-- [ ] Pop-up locations: night-market stall (number 28 082) and an indoor event venue. Names?
+- [ ] Pop-up locations: night-market stall (number 28 082); an indoor event venue; a gallery event ("Free Entry" sign); two Tourism Authority of Thailand (Amazing Thailand) sustainable-travel events ("Travel Bingo", "Travel with Care"); an outdoor tent. Names and dates? Being invited to TAT events is worth a mention.
