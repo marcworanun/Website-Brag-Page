@@ -49,6 +49,8 @@ Draft:
 >
 > [Personal touch, e.g. a hobby or a playlist link]
 
+Intro photo: `images/marc-portrait.jpg` (Marc in the lab holding treated glove fabric; a near-identical shot is first in the Embrace Gloves grid).
+
 ## Still needed from Marc
 
 - ~~Colour preferences~~ blue, white and green (built)

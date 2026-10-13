@@ -63,8 +63,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
   - **Ventilation:** holes drilled into the shell.
   - **Antibacterial coating:** the fabric is coated with silver nanoparticles green-synthesised from **banana pseudostem**.
   - **Research:** I tested how well the nanoparticles worked on the gloves. The research also let me optimise the antibacterial properties and choose the most suitable fabric.
-  - **Scratch-count system:** sensors in the gloves track scratching behaviour and connect to an app called **Scratch Guard**, which displays the results.
-- **Why the monitoring matters:** doctors normally judge an eczema patient's condition by looking at their wounds, which is subjective. Scratch Guard gives medical specialists objective data and gives patients more awareness of their own condition.
+  - **Scratch-count system:** sensors in the gloves track scratching behaviour and connect to an app called **ScratchGuard**, which displays the results.
+- **Why the monitoring matters:** doctors normally judge an eczema patient's condition by looking at their wounds, which is subjective. ScratchGuard gives medical specialists objective data and gives patients more awareness of their own condition.
 - **Results:** sold to **3 hospitals**, **500+ pairs** in total.
 - **What makes it different:**
   - Sustainable, because it's made from recycled hospital waste.
@@ -76,7 +76,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Embrace Gloves**
 > *Founder, Inventor, Researcher*
 >
-> Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonpratan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my Scratch Guard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
+> Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonpratan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
 
 ### To confirm
 
@@ -84,13 +84,13 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Dates
 - [x] How the saline bottles are used: hard inner shell, wrapped in fabric
 - [x] Nanoparticle coating is on the fabric
-- [ ] App name spelling: "Scratch Guard" or "ScratchGuard"?
+- [x] App name spelling: ScratchGuard (one word, from the app screenshot)
 - [ ] Names of the 3 hospitals that bought the gloves
 - [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
 - [x] Nanoparticle research written up: paper accepted for oral presentation and publication at IEOM 11th North American Conference, Milwaukee, June 2026 (ID 281).
 - [ ] Link to the published paper in the IEOM proceedings, for a "Read the research paper" button? Once published, the description can say "published research".
 - [ ] Any partners
-- [x] Photos: 14 in the gallery (added 3: two at Ramathibodi, one institute visit). Earlier list: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Scratch Guard app screenshot still wanted.
+- [x] Photos: 14 in the gallery (added 3: two at Ramathibodi, one institute visit). Earlier list: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Glove prototype photo (built-in display reads "Count: 48") and ScratchGuard app screenshot added, 16 photos total.
 - [ ] The handover sign at Siriraj reads "EMBRACING ECZEMA" with a heart logo, so that looks like the project/brand name. Marc called this batch "Embracing Eczema". Is that the project name, with Embrace Gloves as the product? Use one name consistently (awards list also said "Eczema Gloves").
 - [ ] Hospital name: the sign reads "Panyananthaphikkhu Chonprathan Medical Center, Srinakharinwirot University". Site copy currently says "Chonpratan Hospital".
 - [ ] Gloves donated to the Baan Phraphon children's foundation: worth a line in the description? How many pairs?

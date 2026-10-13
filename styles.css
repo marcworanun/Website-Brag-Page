@@ -79,7 +79,8 @@ img { display: block; max-width: 100%; }
 .intro-text .nickname { text-align: right; font-style: italic; font-size: 1.12rem; font-weight: 300; margin: 2px 0 34px; }
 .nickname span { color: var(--name-green); }
 .intro-text p { font-size: 1.06rem; margin: 0 0 28px; }
-.ph-portrait { aspect-ratio: 269 / 406; width: 100%; }
+.ph-portrait, .portrait { aspect-ratio: 269 / 406; width: 100%; }
+.portrait { object-fit: cover; object-position: 50% 30%; }
 
 /* Gradient banner between sections: soft blue and green blobs */
 .banner {
@@ -198,7 +199,7 @@ img { display: block; max-width: 100%; }
   .tabs a { flex: 1 0 auto; width: auto; font-size: .82rem; padding-left: 4px; padding-right: 6px; }
   .tabs .long { display: none; }
   .intro-box { grid-template-columns: 1fr; padding: 30px 22px; gap: 24px; }
-  .ph-portrait { max-width: 270px; margin: 0 auto; }
+  .ph-portrait, .portrait { max-width: 270px; margin: 0 auto; }
   .gallery > img, .gallery > .ph,
   .gallery.two > img, .gallery.two > .ph { width: calc((100% - 10px) / 2); }
   .pair { grid-template-columns: 1fr; gap: 36px; }
