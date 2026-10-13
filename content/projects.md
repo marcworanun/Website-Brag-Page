@@ -109,6 +109,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - **E-commerce:** set up **Shopee** and **Lazada** shops for the businesses to add a new revenue stream. Drawing on what I learned from owning my clothing brand, I taught them:
   - how to respond to customers
   - how to use the app effectively
+- **Events:** brought villagers to events to sell their products (e.g. a woven-mat seller at an outdoor event).
 - **Result:** their profits rose by **over 12%** over **3 months**.
 - **Teaching:** supported children at the village school by teaching basic economics, such as supply and demand and opportunity cost.
 - **The survey:** household expenditure survey of **80 households (25% of the village)**.
@@ -135,7 +136,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Baan Panya**
 > *Founder*
 >
-> Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, and set five shops up on Shopee and Lazada. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.
+> Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, set five shops up on Shopee and Lazada, and brought villagers to events to sell their products. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.
 
 ### To confirm
 
@@ -156,7 +157,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] School cooperative: the sign inside the shop reads "Banklonghandaeng School Cooperative Project by Marc Atikarnbodee" (confirmed in a clear photo). Shop sells snacks, toiletries and stationery. Did Marc set up a school co-op shop? Not in the description yet; worth adding (what it sells, who runs it, profits).
 - [ ] Village spelling: Marc's own sign says "Banklonghandaeng" (Ban = village), but the site copy says "Bang Khlong Han Daeng" from Marc's first message. Pick one and use it everywhere.
 - [ ] Handmade roses business (video call): is this one of the 5 shops? What does it sell online?
-- [ ] Woven-mat stall photo: which event, and is this one of the 5 businesses? Did Marc help them get a stall at a Bangkok event? That would be another way he grew their revenue, worth a line.
+- [x] Woven-mat stall: one of the 5 businesses. Marc brought villagers to events to sell their products (now in the description).
+- [ ] Which events, and roughly how many? Did event sales count towards the 12% profit rise?
 - [x] Video-call photo: Marc confirmed it should be on the site.
 - [ ] Classroom photo: the slide reads "เอ็กซีมาคืออะไร?" ("What is eczema?") and glove packs are on the desks; it is the same pink classroom as the Embrace Gloves school-donation photo. Placed in Baan Panya as asked; could move to Embrace Gloves, or swap for a photo of the economics lessons.
 
