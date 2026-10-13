@@ -45,7 +45,7 @@ Thailand
 - Silver Medal (top 15 in Thailand; "top 15" is from Marc, not on the certificate)
 - Certificate signed by the Olympiad's director and academic director and the Dean of Economics, Srinakharinwirot University
 - Year: 2026
-- Photo: [x] `images/award-economics-olympiad-2026.jpg`
+- Photo: [x] `images/award-economics-olympiad-2026-stage.jpg` (on stage with medal and certificate) and `images/award-economics-olympiad-2026.jpg` (certificate)
 
 ### 58th Chemistry Olympiad 2026, UK Round One, Royal Society of Chemistry
 - **Gold Certificate** (the certificate says Gold Certificate, not Gold Medal; site now says Gold Certificate)
