@@ -50,11 +50,14 @@ Thailand
 - Photo: [x] `images/award-chemistry-olympiad-2026.jpg`
 
 ### IEOM 11th North American International Conference on Industrial Engineering and Operations Management
-[City, to confirm]
+Milwaukee, Wisconsin, USA, 9–11 June 2026 (host: University of Wisconsin-Milwaukee)
 *Embrace Gloves*
-- Finalist
-- Year: [to confirm]
-- Photo: [ ]
+- **Research paper accepted for oral presentation and publication** (letter of acceptance dated 24 May 2026)
+- Paper ID 281: "The application of silver nanoparticles made from the green synthesis of banana pseudo stem on anti-scratch eczema mittens"
+- Finalist (from Marc's list; the letter doesn't mention this. Confirm what he was a finalist in, e.g. a student paper competition, or remove)
+- Year: 2026
+- Photo: [x] `images/award-ieom-2026-acceptance.jpg`
+- [ ] Did Marc present in Milwaukee (in person or online)? Is the paper in the published proceedings? A link would make a "Read the research paper" button.
 
 ### International Greenwich Olympiad
 *Embrace Gloves*

@@ -85,7 +85,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] App name spelling: "Scratch Guard" or "ScratchGuard"?
 - [ ] Names of the 3 hospitals that bought the gloves
 - [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
-- [ ] Is the nanoparticle research written up or published? Any link?
+- [x] Nanoparticle research written up: paper accepted for oral presentation and publication at IEOM 11th North American Conference, Milwaukee, June 2026 (ID 281).
+- [ ] Link to the published paper in the IEOM proceedings, for a "Read the research paper" button? Once published, the description can say "published research".
 - [ ] Any partners
 - [x] Photos: 14 in the gallery (added 3: two at Ramathibodi, one institute visit). Earlier list: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Scratch Guard app screenshot still wanted.
 - [ ] The handover sign at Siriraj reads "EMBRACING ECZEMA" with a heart logo, so that looks like the project/brand name. Marc called this batch "Embracing Eczema". Is that the project name, with Embrace Gloves as the product? Use one name consistently (awards list also said "Eczema Gloves").
