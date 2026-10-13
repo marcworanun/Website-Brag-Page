@@ -16,7 +16,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
   - Devices that do support home-based recovery cost at least **5,500 USD**.
 - **My solution:** LunarLift includes those features for **650 USD**, about 88% cheaper.
 - **Testing:** trialled at **3 rural hospitals** with **20 real patients**.
-- **Licensing:** worked on a licence agreement with the company **Retail Business Solutions**. As part of this deal I:
+- **Licensing:** worked on a licence agreement with the company **Retail Business Solutions Co., Ltd.**. As part of this deal I:
   - researched FDA registration pathways
   - compared LunarLift with other devices on the market
 - **Future:** the licence agreement will be used to distribute the device to hospitals.
@@ -26,7 +26,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **LunarLift**
 > *Founder, Inventor*
 >
-> After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.
+> After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions Co., Ltd. on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.
 
 ### To confirm
 
@@ -41,7 +41,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] The trial device (red and white, labelled "Lift & Walk", "CED²", "T36") looks different from the white prototype at SIC Thailand and in the workshop. Is it a later version? Be ready to explain this in interviews.
 - [ ] **Name and team:** both LunarLift certificates call the project "The Lift & Walk" / "The Lift and Walk". The SIC Thailand 2024 certificate lists a team of 5 students (Marc is one), advised by a Thammasat professor and a Shrewsbury teacher; the i-CREATe certificate names Marc alone. Is LunarLift the later name for Lift & Walk? The site says "Founder, Inventor" and "I" throughout. Readers who open the certificate will see five names, so the description may need to credit the team (e.g. "I led a team of five…") and mention the earlier name.
 - [ ] SIC certificate shows four other students' full names publicly. Check they're fine with it, or blur their names.
-- [ ] Roadmap photo: is RBS Group = Retail Business Solutions (the licensing partner)? What is the Alpaca logo (Marc's company or team)? Roadmap on the slide: Q2 2026 clinical validation (in process); Q4 2026 B2G model, CBR and rehab centre rollout, production 30 units/month; Q1 2027 4-month trials with committed rehab centres; Q4 2027 B2B and B2C for home recovery. Useful for interviews; the site doesn't quote it.
+- [ ] Roadmap photo: is RBS Group = Retail Business Solutions Co., Ltd. (the licensing partner)? What is the Alpaca logo (Marc's company or team)? Roadmap on the slide: Q2 2026 clinical validation (in process); Q4 2026 B2G model, CBR and rehab centre rollout, production 30 units/month; Q1 2027 4-month trials with committed rehab centres; Q4 2027 B2B and B2C for home recovery. Useful for interviews; the site doesn't quote it.
 - [ ] Thammasat test photo: who is the volunteer (patient, staff, student)? Was testing at Thammasat part of working with the Thammasat advisor? This prototype (white column, mint and yellow frame) is a third look alongside the red-and-white trial device.
 - [ ] Pitch photo ("Existing Innovations" slide, MTEC/NSTDA judge nameplate): which event? If SIC Thailand, it can also go next to that award.
 
