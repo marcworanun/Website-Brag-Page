@@ -85,13 +85,15 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] "Only gloves on the market with scratch monitoring": checked against competitors? (worded carefully for the site)
 - [ ] Is the nanoparticle research written up or published? Any link?
 - [ ] Any partners
-- [x] Photos: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Scratch Guard app screenshot still wanted.
+- [x] Photos: 14 in the gallery (added 3: two at Ramathibodi, one institute visit). Earlier list: 11 in the gallery (plus the app slot = 3 full rows): lab research (treated fabric); treating fabric at a fume hood; handover at the Faculty of Medicine Siriraj Hospital, Mahidol University ("Embracing Eczema" sign); collecting saline bottles (2); handovers at Panyananthaphikkhu Chonprathan Medical Center and at a Mahidol University hospital; two patients wearing the gloves; children at the Baan Phraphon foundation; students at a school. Scratch Guard app screenshot still wanted.
 - [ ] The handover sign at Siriraj reads "EMBRACING ECZEMA" with a heart logo, so that looks like the project/brand name. Marc called this batch "Embracing Eczema". Is that the project name, with Embrace Gloves as the product? Use one name consistently (awards list also said "Eczema Gloves").
 - [ ] Hospital name: the sign reads "Panyananthaphikkhu Chonprathan Medical Center, Srinakharinwirot University". Site copy currently says "Chonpratan Hospital".
 - [ ] Gloves donated to the Baan Phraphon children's foundation: worth a line in the description? How many pairs?
 - [ ] Patient and children are identifiable: confirm the hospital, the patient and the foundation are fine with the photos being public.
 - [ ] Second patient photo: the elderly man appears asleep. If he is family, check the family is happy for it to be public; can crop his face out.
-- [ ] Mahidol handover: which hospital? (Sign reads "Faculty of Medicine ... Hospital", possibly Ramathibodi.) Is it one of the 3 hospitals that bought gloves?
+- [x] Mahidol handover confirmed as the Faculty of Medicine Ramathibodi Hospital, Mahidol University (sign in the new photos reads "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี"). 3 photos from this visit now in the gallery; one is a near-duplicate of the earlier handover photo and could be dropped.
+- [ ] Are the 3 hospitals that bought the gloves Siriraj, Ramathibodi and Chonprathan? If so, name them in the description.
+- [ ] Institute visit photo: the man's jacket badge looks like Praboromarajchanok Institute (Ministry of Public Health). Confirm, and what was the visit for?
 - [ ] Classroom donation: which school, and how many pairs?
 - [ ] Lab photo: where was the nanoparticle research done?
 
