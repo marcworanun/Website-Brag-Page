@@ -37,10 +37,11 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] FDA = US FDA or Thai FDA (อย.)?
 - [ ] Names or provinces of the 3 hospitals, and whether physiotherapists supervised the trials
 - [ ] Any partners, links or a write-up
-- [x] Photos: 9 in the gallery (4 trial photos, outside a rural hospital, building the frame, pitching against existing devices, SIC Thailand demo, Diamond Challenge stage)
+- [x] Photos: 10 in the gallery (4 trial photos, outside a rural hospital, building the frame, a volunteer testing the prototype at Thammasat University, pitching against existing devices, SIC Thailand demo, Diamond Challenge stage)
 - [ ] The trial device (red and white, labelled "Lift & Walk", "CED²", "T36") looks different from the white prototype at SIC Thailand and in the workshop. Is it a later version? Be ready to explain this in interviews.
 - [ ] **Name and team:** both LunarLift certificates call the project "The Lift & Walk" / "The Lift and Walk". The SIC Thailand 2024 certificate lists a team of 5 students (Marc is one), advised by a Thammasat professor and a Shrewsbury teacher; the i-CREATe certificate names Marc alone. Is LunarLift the later name for Lift & Walk? The site says "Founder, Inventor" and "I" throughout. Readers who open the certificate will see five names, so the description may need to credit the team (e.g. "I led a team of five…") and mention the earlier name.
 - [ ] SIC certificate shows four other students' full names publicly. Check they're fine with it, or blur their names.
+- [ ] Thammasat test photo: who is the volunteer (patient, staff, student)? Was testing at Thammasat part of working with the Thammasat advisor? This prototype (white column, mint and yellow frame) is a third look alongside the red-and-white trial device.
 - [ ] Pitch photo ("Existing Innovations" slide, MTEC/NSTDA judge nameplate): which event? If SIC Thailand, it can also go next to that award.
 
 **Awards** (details in `content/awards.md`): Diamond Challenge Global Finalist and First Place, Beijing stage; iCREATE Global Best Prototype Award (to confirm); Thailand Student Innovation Challenge Bronze Medal.
