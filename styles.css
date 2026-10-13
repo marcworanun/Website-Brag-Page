@@ -168,6 +168,10 @@ img { display: block; max-width: 100%; }
 /* Award photos keep their own shape so certificates are never cropped */
 .award-photos > img { width: auto; height: auto; max-width: 100%; max-height: 280px; cursor: zoom-in; box-shadow: 0 4px 14px rgba(10, 26, 18, .12); }
 .award-photos > .ph { width: 210px; max-width: 100%; aspect-ratio: 3 / 4; }
+/* Several photos for one award: a wide photo on top, two certificates below */
+.award-photos.multi { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; width: 100%; max-width: 340px; justify-self: center; }
+.award-photos.multi > img { width: 100%; max-height: none; }
+.award-photos.multi > img:first-child { grid-column: 1 / -1; }
 
 /* Footer: thin bar */
 .site-footer { background: var(--c-intro); text-align: center; font-size: .8rem; font-weight: 300; padding: 4px 16px; }

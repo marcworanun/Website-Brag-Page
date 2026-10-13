@@ -26,9 +26,10 @@ Shanghai, China
 Seoul National University of Education, Seoul, South Korea (16–18 July 2026)
 *Embrace Gloves* (certificates say "The Embrace Gloves")
 - Gold Award (with medal)
-- Special Award, presented by KUIPA (Korea University Intellectual Property / Invention Association)
+- Gold Award certificate: organised by the Korea University Intellectual Property Association (KUIPA), "in recognition of the Best Presentation, Outstanding Creativity, and Innovation"
+- Special Award certificate: from the Korea University Invention Association (KUIA)
 - Year: 2026
-- Photo: [x] `images/award-wico-2026.jpg` (Marc with medal and both certificates)
+- Photo: [x] `images/award-wico-2026.jpg` (Marc with medal and both certificates); plus `award-wico-2026-gold-certificate.jpg` and `award-wico-2026-special-certificate.jpg`
 
 ### 11th International Invention Innovation Competition in Canada (iCAN 2026), IFIA-endorsed
 Toronto, Canada. Organised by TISIAS (Toronto International Society of Innovation & Advanced Skills)
