@@ -43,7 +43,7 @@ Draft:
 > **Woranun Atikarnbodee**
 > *(but everyone calls me Marc)*
 >
-> I'm a junior at Shrewsbury International School Bangkok. I'm also an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...
+> I'm a senior at Shrewsbury International School Bangkok. I'm also an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...
 >
 > What ties it all together is a simple question: why should good healthcare cost so much? I design healthcare solutions that work as well as what's on the market, for a fraction of the price, because I believe effective care shouldn't depend on what you can afford. This page walks you through what I've built so far. Enjoy!
 >
