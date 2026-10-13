@@ -199,7 +199,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Who are the artisans (community, location)?
 - [ ] Where the pop-ups were held
 - [ ] Website or Instagram link
-- [x] Photos (first batch, 4): spinning fibre with an artisan; Marc and a teammate in Ecoscope jackets at the pop-up store; the team outside the pop-up at night; Marc with a customer at a pop-up stall. A near-duplicate customer photo was left out.
+- [x] Photos (8, two full rows): artisans first (spinning fibre; sewing with an artisan; weaving on a hand loom), then the pop-ups (hanging T-shirts while setting up; Marc and a teammate in Ecoscope jackets; shoppers browsing at the night market; the team outside at night; Marc with a customer). A near-duplicate customer photo was left out.
 - [ ] Close-up of an animal design still wanted: the designs visible so far (jackets, T-shirts with a ribbon motif) don't show an animal, and the description says each design features one.
-- [ ] Artisan photo: where is this (community/province)? What fibre is being spun?
+- [ ] Artisans: the banner in the sewing photo reads "กลุ่มอาชีพการทอผ้าย้อมสีธรรมชาติ ตำบลแจ้ซ้อน อำเภอเมือง…" (natural-dye weaving occupational group, Chae Son subdistrict; district cut off, likely Mueang Pan, Lampang). Supported by the Department of Women's Affairs and Family Development. Confirm the group's name and province.
+- [ ] Fabric: the photos show hand-spun, hand-woven, natural-dyed fabric on a loom, but the description says "banana and pineapple-leaf fibres and recycled PET". Is the fruit fibre blended into this hand-woven fabric? Make sure the description matches what's in the photos.
 - [ ] Pop-up locations: night-market stall (number 28 082) and an indoor event venue. Names?
