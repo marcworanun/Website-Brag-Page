@@ -62,11 +62,14 @@ Milwaukee, Wisconsin, USA, 9–11 June 2026 (host: University of Wisconsin-Milwa
 - Photo: [x] `images/award-ieom-2026-acceptance.jpg`
 - [ ] Did Marc present in Milwaukee (in person or online)? Is the paper in the published proceedings? A link would make a "Read the research paper" button.
 
-### International Greenwich Olympiad
+### International Greenwich Olympiad 2026
+Organised with North London Grammar School (IGO team)
 *Embrace Gloves*
-- Finalist
-- Year: [to confirm]
-- Photo: [ ]
+- Finalist: selected for the final round of the Online option, Engineering category (letter dated 19 April 2026)
+- Year: 2026
+- Photo: [x] `images/award-greenwich-2026-finalist.jpg` (email letter, cropped; Gmail search highlight removed)
+- [ ] **Name on the letter is "Worapong Atikarnbodee", not Woranun.** Organiser typo, or someone else's letter (e.g. a sibling)? Ask IGO for a corrected letter or the finalist certificate/badge from the platform's Documents section.
+- [ ] Result of the final round?
 
 ### Thailand Student Innovation Challenge
 Thailand
