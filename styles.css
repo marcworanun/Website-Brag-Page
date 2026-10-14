@@ -55,7 +55,7 @@ img { display: block; max-width: 100%; }
 }
 .tabs::-webkit-scrollbar { display: none; }
 .tabs a {
-  width: 173px; flex: 0 1 173px;
+  width: 150px; flex: 0 1 150px;
   border-top: 1px solid var(--ink);
   padding: 6px 8px 0;
   color: var(--ink); text-decoration: none;
@@ -64,6 +64,7 @@ img { display: block; max-width: 100%; }
 }
 .tabs a:hover { color: var(--name-green); }
 .tabs a.active { border-top: 4px solid var(--ink); padding-top: 3px; }
+.tabs .short { display: none; }
 
 /* About Me */
 .intro { padding: 0 16px 22px; }
@@ -130,6 +131,9 @@ img { display: block; max-width: 100%; }
 .gallery > img, .gallery > .ph { width: 215px; aspect-ratio: 215 / 161; object-fit: cover; }
 .gallery > img { object-position: center 40%; cursor: zoom-in; }
 .gallery.two { max-width: 386px; }
+/* Two larger photos side by side, never cropped (e.g. a photo next to a certificate) */
+.gallery.wide { align-items: center; }
+.gallery.wide > img { width: 340px; height: auto; aspect-ratio: auto; object-fit: initial; }
 .gallery.two > img, .gallery.two > .ph { width: 188px; aspect-ratio: 188 / 141; }
 
 .ph {
@@ -204,10 +208,12 @@ img { display: block; max-width: 100%; }
   .tabs { justify-content: flex-start; gap: 6px; }
   .tabs a { flex: 1 0 auto; width: auto; font-size: .82rem; padding-left: 4px; padding-right: 6px; }
   .tabs .long { display: none; }
+  .tabs .short { display: inline; }
   .intro-box { grid-template-columns: 1fr; padding: 30px 22px; gap: 24px; }
   .ph-portrait, .portrait { max-width: 270px; margin: 0 auto; }
   .gallery > img, .gallery > .ph,
   .gallery.two > img, .gallery.two > .ph { width: calc((100% - 10px) / 2); }
+  .gallery.wide > img { width: 100%; }
   .pair { grid-template-columns: 1fr; gap: 36px; }
   .award { grid-template-columns: 1fr; gap: 12px; padding: 14px 0; }
   .award:nth-of-type(even) .award-text { order: 0; }

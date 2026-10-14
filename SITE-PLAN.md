@@ -10,12 +10,13 @@ Sections, in order:
 
 1. **About Me**: intro and photo
 2. **Projects**: one full-width colour band per project, each with title, role, description, proof buttons (website / paper), photo grid, awards and partners
-3. **Extracurriculars**: same band layout, shorter entries
-4. **Awards & Recognition**: each award next to a photo of the certificate or medal, plus a Media Coverage list
+3. **Internship**: Finansia Syrus Securities (see `content/internship.md`), one band with a photo and the certificate side by side
+4. **Extracurriculars**: same band layout, shorter entries
+5. **Awards & Recognition**: each award next to a photo of the certificate or medal, plus a Media Coverage list
 
 Style, matched closely to the reference:
 
-- Header: name in green capitals, four tabs underneath with a thin dark line above each (thick line on the current tab), off-white background.
+- Header: name in green capitals, five tabs underneath (on phones, Extracurriculars shows as "Activities" so all five fit) with a thin dark line above each (thick line on the current tab), off-white background.
 - About Me: coloured box, "Hi! I'm" on the left, name in large regular-weight type, nickname in italics aligned right, photo on the right.
 - Banners: soft blurred gradient strip (blue and green here) with the section title in white.
 - Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, 4-across photo grid (215×161), then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.

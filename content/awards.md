@@ -2,7 +2,7 @@
 
 Layout on the site is the same as the reference: each award gets its own block with the **competition name and place**, the **project** (in italics), the **result** as a short bullet list, and a **photo slot** for the certificate, medal or stage photo.
 
-On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iCREATE, Thailand Student Innovation Challenge), then Embrace Gloves (WICO, iCAN, IEOM, International Greenwich Olympiad), then Olympiads (Thai Economics Olympiad, UK Chemistry Olympiad). Each group is its own colour band with the project name as the heading.
+On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iCREATE, Thailand Student Innovation Challenge), then Embrace Gloves (WICO, iCAN, IEOM, International Greenwich Olympiad), then Other Awards (Thai Economics Olympiad, UK Chemistry Olympiad, John Locke Institute, Duke of Edinburgh's Award). Each group is its own colour band with the project name as the heading.
 
 ---
 
@@ -70,6 +70,18 @@ Organised with North London Grammar School (IGO team)
 - Photo: [x] `images/award-greenwich-2026-finalist.jpg` (email letter, cropped; Gmail search highlight removed)
 - [ ] **Name on the letter is "Worapong Atikarnbodee", not Woranun.** Organiser typo, or someone else's letter (e.g. a sibling)? Ask IGO for a corrected letter or the finalist certificate/badge from the platform's Documents section.
 - [ ] Result of the final round?
+
+### John Locke Institute 2024 Public Policy Symposium
+Princeton, USA
+- Commended with merit "for creditable performance in the John Locke Institute 2024 Public Policy Symposium in Princeton"
+- Signed by Jamie Whyte Ph.D. (Cantab), Academic Director, and Martin Cox M.A. (Oxon), Director General
+- Year: 2024
+- Photo: [x] `images/award-john-locke-2024.jpg` (rotated upright and trimmed from the PDF scan)
+
+### The Duke of Edinburgh's Award
+- Bronze Award, 9 February 2024
+- Certificate is issued to "Marc Atikarnbodee" (nickname), not Woranun. Fine for the site, but worth knowing if anyone checks it on DofE.org/authenticate.
+- Photo: [x] `images/award-dofe-bronze-2024.jpg`
 
 ### Thailand Student Innovation Challenge
 Thailand
