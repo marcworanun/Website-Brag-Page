@@ -32,13 +32,13 @@ Seoul National University of Education, Seoul, South Korea (16–18 July 2026)
 - Photo: [x] `images/award-wico-2026.jpg` (Marc with medal and both certificates); plus `award-wico-2026-gold-certificate.jpg` and `award-wico-2026-special-certificate.jpg`
 
 ### 11th International Invention Innovation Competition in Canada (iCAN 2026), IFIA-endorsed
-Toronto, Canada. Organised by TISIAS (Toronto International Society of Innovation & Advanced Skills)
-*Embrace Gloves* (entry name "The Embrace Gloves", entry no. 32)
-- **Gold Medal in the Preliminaries** (preliminary evaluation result dated 31 July 2026)
-- Selected as a Finalist, eligible for "The Finals" (optional video round, deadline 10 August; Finals shown 30 August)
+Toronto, Canada, 29 August 2026. Organised by TISIAS (Toronto International Society of Innovation & Advanced Skills)
+*Embrace Gloves* (entry name "The Embrace Gloves")
+- **Gold Medal** (Certificate of Award, signed by the Organizing Chairman and the Co-Chairman of the Jury)
+- **Special Award** from TISIAS ("in recognition of excellent invention/innovation")
+- Earlier: Gold Medal in the Preliminaries and selected as a Finalist (result letter dated 31 July 2026)
 - Year: 2026
-- Photo: [x] `images/award-ican-2026-result.jpg` (preliminary result letter)
-- [ ] Did Marc submit a Finals video? Any Finals award? A medal or certificate photo would look stronger than the letter (the letter's checklist mentions invoice payment).
+- Photo: [x] `images/award-ican-2026-gold-certificate.jpg` and `images/award-ican-2026-special-certificate.jpg`. The preliminary letter (`award-ican-2026-result.jpg`) is kept in the repo but no longer shown, since the final certificates are stronger and the letter mentions invoice payment.
 
 ### 2026 Thailand Economics Olympiad
 Thailand

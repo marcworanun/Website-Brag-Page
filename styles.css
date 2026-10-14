@@ -173,6 +173,7 @@ img { display: block; max-width: 100%; }
 .award-photos.multi > img { width: 100%; max-height: none; }
 .award-photos.multi > img:first-child { grid-column: 1 / -1; }
 .award-photos.multi.stack { grid-template-columns: 1fr; }
+.award-photos.multi.duo > img:first-child { grid-column: auto; }
 
 /* Footer: thin bar */
 .site-footer { background: var(--c-intro); text-align: center; font-size: .8rem; font-weight: 300; padding: 4px 16px; }

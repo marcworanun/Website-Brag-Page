@@ -102,7 +102,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Classroom donation: which school, and how many pairs?
 - [ ] Lab photo: where was the nanoparticle research done?
 
-**Awards** (details in `content/awards.md`): WICO Gold Medal and Special Award; iCAN Gold Medal; IEOM 11th North American Conference Finalist; International Greenwich Olympiad Finalist.
+**Awards** (details in `content/awards.md`): WICO Gold Award and Special Award; iCAN 2026 Gold Medal and TISIAS Special Award; IEOM 11th North American Conference Finalist; International Greenwich Olympiad Finalist.
 
 ---
 
