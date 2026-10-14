@@ -2,7 +2,7 @@
 
 Layout on the site is the same as the reference: each award gets its own block with the **competition name and place**, the **project** (in italics), the **result** as a short bullet list, and a **photo slot** for the certificate, medal or stage photo.
 
-On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iCREATE, Thailand Student Innovation Challenge), then Embrace Gloves (WICO, iCAN, IEOM, International Greenwich Olympiad), then Other Awards (Thai Economics Olympiad, UK Chemistry Olympiad, John Locke Institute, Duke of Edinburgh's Award). Each group is its own colour band with the project name as the heading.
+On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iCREATE; Thailand Student Innovation Challenge hidden for now), then Embrace Gloves (WICO, iCAN, IEOM, International Greenwich Olympiad), then Other Awards (Thai Economics Olympiad, UK Chemistry Olympiad, John Locke Institute, Duke of Edinburgh's Award). Each group is its own colour band with the project name as the heading.
 
 ---
 
@@ -84,6 +84,7 @@ Princeton, USA
 - Photo: [x] `images/award-dofe-bronze-2024.jpg`
 
 ### Thailand Student Innovation Challenge
+**Hidden from the site for now (Marc's request, 14 Oct 2026).** Certificate file kept at `images/award-sic-thailand-2024.jpg`; to restore, add the award row back under LunarLift and the line in the LunarLift "Awards:" list.
 Thailand
 *LunarLift*
 - Bronze Medal
