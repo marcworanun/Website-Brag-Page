@@ -197,13 +197,14 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - **Results:** **7 pop-up stores**, **200+ pieces sold**, **2,000+ USD revenue**.
 - **Where profits go:** endangered animal shelters and the artisans who make the clothes.
 - **Tourism Authority of Thailand:** collaborated with TAT's Amazing Thailand campaign, selling Ecoscope clothes at its events to showcase Thai culture to visitors (photos: "Travel Bingo" and "Travel with Care" stalls).
+- **Where Ecoscope has sold** (shown on the site as a "Where we've sold:" list under the photos): Tourism Authority of Thailand Amazing Thailand events; Bangkok Climate Action Week (BKKCAW); Salil Hotel Riverside; Salil Hotel Sukhumvit 57; Chatuchak Market; Project X Festival; Phufa stores (Marc wrote "Phufah"; the shops' own English spelling is "Phufa").
 
 ### Website copy
 
 > **Ecoscope**
 > *Founder*
 >
-> Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. We've collaborated with the Tourism Authority of Thailand's Amazing Thailand campaign, selling our clothes at its events to showcase Thai culture to visitors. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+> Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
 
 ### To confirm
 
@@ -215,7 +216,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Pangolin: Sunda pangolin?
 - [ ] Which shelters or organisations receive profits? How much has been donated?
 - [ ] Who are the artisans (community, location)?
-- [ ] Where the pop-ups were held
+- [x] Where the pop-ups were held (see list above)
 - [ ] Website or Instagram link
 - [x] Photos (13): artisans (spinning; sewing; hand loom); close-up of the printed waffle-knit T-shirts; night-market pop-up (setting up; jackets; shoppers; team); stalls at other events (with a customer; outside a gallery event; Amazing Thailand "Travel Bingo"; Amazing Thailand "Travel with Care"; an outdoor tent). A near-duplicate customer photo was left out.
 - [ ] Design close-up: the printed waffle-knit T-shirts may show an animal (an eye is visible), but it's hard to tell. Which animal is it? If none, a close-up of an animal print is still wanted. Neck label isn't readable; does it say Ecoscope?
