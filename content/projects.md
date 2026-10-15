@@ -196,13 +196,14 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - **Animals featured:** Siamese crocodile, pangolin, elephant, horse.
 - **Results:** **7 pop-up stores**, **200+ pieces sold**, **2,000+ USD revenue**.
 - **Where profits go:** endangered animal shelters and the artisans who make the clothes.
+- **Tourism Authority of Thailand:** collaborated with TAT's Amazing Thailand campaign, selling Ecoscope clothes at its events to showcase Thai culture to visitors (photos: "Travel Bingo" and "Travel with Care" stalls).
 
 ### Website copy
 
 > **Ecoscope**
 > *Founder*
 >
-> Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+> Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. We've collaborated with the Tourism Authority of Thailand's Amazing Thailand campaign, selling our clothes at its events to showcase Thai culture to visitors. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
 
 ### To confirm
 
