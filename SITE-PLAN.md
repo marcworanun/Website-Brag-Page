@@ -25,7 +25,7 @@ Style, matched closely to the reference:
 - Project logos: a project's own logo sits centred under its description, above the photos (120px tall, 96px on phones), like the reference. Ecoscope has one so far.
 - Extracurriculars are paired side by side, two per band, like the reference's Student Council/Ambassadors and Tennis/Music bands: Club + House Captain, then Varsity Football + Form Representative. Each has a 2-across photo grid. No divider lines between bands; on phones the pairs stack.
 - Awards: one band with an "Awards" heading, grouped by project; each award has text on one side and its photo on the other (max 240px tall, never cropped; awards with several photos show them in a small grid), alternating sides, rows packed tightly with about 16px between awards.
-- Photo quality: grids, document rows and award rows show sharpened display copies from `images/thumbs/` (made by `tools/make-thumbs.sh`, Lanczos-resized to fit 960×960) and open the full photo on click. The Netlify zip copies images as they are, never re-saving them.
+- Photo quality: grids, document rows and award rows show sharpened WebP display copies from `images/thumbs/` (made by `tools/make-thumbs.sh`, Lanczos-resized to fit 960×960) and open the full photo on click. The Netlify zip copies images as they are, never re-saving them.
 - Footer: thin bar, "© year Name. All rights reserved."
 - Fonts: Poppins ExtraLight for body (same as the reference). Headings use Questrial, the closest free match to the reference's Wix-only "Aether" font.
 - Media Coverage section: add when Marc has articles or posts to list.
