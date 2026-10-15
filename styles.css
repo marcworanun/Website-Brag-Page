@@ -150,6 +150,12 @@ img { display: block; max-width: 100%; }
 .list-block .label { font-weight: 500; margin: 0; }
 .list-block ul { margin: 0; padding-left: 24px; }
 
+/* "Partners:" logo row under a project */
+.partners { text-align: left; max-width: 870px; margin: 22px auto 0; }
+.partners .label { font-weight: 500; margin: 0 0 8px; }
+.partners .logos { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.partners .logos img { height: 84px; width: auto; background: #fff; padding: 4px 8px; border-radius: 6px; }
+
 /* Two activities side by side */
 .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; max-width: 900px; margin: 0 auto; align-items: start; }
 .points { text-align: left; max-width: 400px; margin: 0 auto; padding-left: 22px; font-size: .98rem; }
@@ -215,6 +221,7 @@ img { display: block; max-width: 100%; }
   .gallery > img, .gallery > .ph,
   .gallery.two > img, .gallery.two > .ph { width: calc((100% - 10px) / 2); }
   .gallery.wide > img { width: 100%; }
+  .partners .logos img { height: 64px; }
   .pair { grid-template-columns: 1fr; gap: 36px; }
   .award { grid-template-columns: 1fr; gap: 12px; padding: 14px 0; }
   .award:nth-of-type(even) .award-text { order: 0; }
