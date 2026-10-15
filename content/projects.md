@@ -198,6 +198,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - **Where profits go:** endangered animal shelters and the artisans who make the clothes.
 - **Tourism Authority of Thailand:** collaborated with TAT's Amazing Thailand campaign, selling Ecoscope clothes at its events to showcase Thai culture to visitors (photos: "Travel Bingo" and "Travel with Care" stalls).
 - **Where Ecoscope has sold** (shown on the site as a "Where we've sold:" list under the photos): Tourism Authority of Thailand Amazing Thailand events; Bangkok Climate Action Week (BKKCAW); Salil Hotel Riverside; Salil Hotel Sukhumvit 57; Chatuchak Market; Project X Festival; Phufa stores (Marc wrote "Phufah"; the shops' own English spelling is "Phufa").
+- **Logo** (on the site centred under the description, above the photos, the way the reference shows each project's own logo): beige-and-green leaf emblem, white background made see-through. File: `images/ecoscope-logo.png`.
 
 ### Website copy
 
@@ -218,6 +219,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Who are the artisans (community, location)?
 - [x] Where the pop-ups were held (see list above)
 - [ ] Website or Instagram link
+- [ ] Logo: is `images/ecoscope-logo.png` Ecoscope's own logo (assumed), or a partner's? If it's a partner's, it moves into a "Partners:" row like LunarLift and Embrace Gloves.
 - [x] Photos (13): artisans (spinning; sewing; hand loom); close-up of the printed waffle-knit T-shirts; night-market pop-up (setting up; jackets; shoppers; team); stalls at other events (with a customer; outside a gallery event; Amazing Thailand "Travel Bingo"; Amazing Thailand "Travel with Care"; an outdoor tent). A near-duplicate customer photo was left out.
 - [ ] Design close-up: the printed waffle-knit T-shirts may show an animal (an eye is visible), but it's hard to tell. Which animal is it? If none, a close-up of an animal print is still wanted. Neck label isn't readable; does it say Ecoscope?
 - [ ] Artisans: the banner in the sewing photo reads "กลุ่มอาชีพการทอผ้าย้อมสีธรรมชาติ ตำบลแจ้ซ้อน อำเภอเมือง…" (natural-dye weaving occupational group, Chae Son subdistrict; district cut off, likely Mueang Pan, Lampang). Supported by the Department of Women's Affairs and Family Development. Confirm the group's name and province.
