@@ -10,6 +10,10 @@ A one-page personal website for college applications. It's plain HTML and CSS, s
 
 To preview it, open `index.html` in any browser.
 
+## Photos
+
+Photo grids, document rows and award rows show small, sharpened display copies from `images/thumbs/`, and open the full photo when clicked. Each of those images is written as `<img src="images/thumbs/NAME.jpg" data-full="images/NAME.jpg" ...>`. After adding or replacing a photo, run `tools/make-thumbs.sh` to make its display copy.
+
 ## Publishing it free with GitHub Pages
 
 1. Push to the `main` branch.
@@ -21,7 +25,7 @@ You can paste that link into the Common App's Additional Information section or 
 
 ## Publishing with Netlify
 
-1. Run `tools/build-netlify.sh` (needs ImageMagick). It makes `netlify-site.zip` with the page and smaller copies of the photos.
+1. Run `tools/build-netlify.sh` (needs ImageMagick). It makes `netlify-site.zip` with the page and its images, copied as they are so they never lose quality.
 2. Drag the zip onto [app.netlify.com/drop](https://app.netlify.com/drop). If it won't take a zip, unzip it and drag the folder.
 3. To update the site later, build a new zip and drag it onto the site's **Deploys** page in Netlify. The link stays the same.
 

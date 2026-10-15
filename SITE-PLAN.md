@@ -19,12 +19,13 @@ Style, matched closely to the reference:
 - Header: name in green capitals, five tabs underneath (on phones, Extracurriculars shows as "Activities" so all five fit) with a thin dark line above each (thick line on the current tab), off-white background.
 - About Me: coloured box, "Hi! I'm" on the left, name in large regular-weight type, nickname in italics aligned right, photo on the right.
 - Banners: soft blurred gradient strip (blue and green here) with the section title in white.
-- Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, 4-across photo grid (215×161), then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.
+- Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, 4-across photo grid (215×161, at most 12 photos per project), then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.
 - Partners: under a project's "Awards:" list, a "Partners:" label and a row of logos (84px tall, 64px on phones), no tiles: round logos are masked to circles and the rest have see-through backgrounds, like the reference.
 - Proof documents: an acceptance letter or patent goes in its own row between the description and the photos, uncropped (240px tall) with an italic caption, like the reference's Perilla Guard "Petty Patent". Embrace Gloves shows the IEOM acceptance letter.
 - Project logos: a project's own logo sits centred under its description, above the photos (120px tall, 96px on phones), like the reference. Ecoscope has one so far.
 - Extracurriculars are paired side by side, two per band, like the reference's Student Council/Ambassadors and Tennis/Music bands: Club + House Captain, then Varsity Football + Form Representative. Each has a 2-across photo grid. No divider lines between bands; on phones the pairs stack.
 - Awards: one band with an "Awards" heading, grouped by project; each award has text on one side and its photo on the other (max 240px tall, never cropped; awards with several photos show them in a small grid), alternating sides, rows packed tightly with about 16px between awards.
+- Photo quality: grids, document rows and award rows show sharpened display copies from `images/thumbs/` (made by `tools/make-thumbs.sh`, Lanczos-resized to fit 960×960) and open the full photo on click. The Netlify zip copies images as they are, never re-saving them.
 - Footer: thin bar, "© year Name. All rights reserved."
 - Fonts: Poppins ExtraLight for body (same as the reference). Headings use Questrial, the closest free match to the reference's Wix-only "Aether" font.
 - Media Coverage section: add when Marc has articles or posts to list.

@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# Builds a zip for Netlify Drop (app.netlify.com/drop): index.html, styles.css and
-# smaller copies of the photos the page uses. The full-size originals stay in images/.
+# Builds a zip for Netlify Drop (app.netlify.com/drop): index.html, styles.css and the
+# images the page uses, copied as they are. Photos are never re-saved here, because every
+# extra JPEG save makes them blurrier. The small display copies in images/thumbs come from
+# tools/make-thumbs.sh, which this runs first.
 #
 # Usage: tools/build-netlify.sh [output.zip]   (needs ImageMagick and zip or python3)
 set -euo pipefail
@@ -10,19 +12,16 @@ out="$(realpath -m "${1:-netlify-site.zip}")"
 build="$(mktemp -d)"
 trap 'rm -rf "$build"' EXIT
 
+tools/make-thumbs.sh >/dev/null
 mkdir -p "$build/images"
 cp index.html styles.css "$build/"
 
-# Only photos the page actually shows. Certificates stay sharper so they're readable when opened.
-grep -o 'src="images/[^"]*"' index.html | sed 's/^src="images\///; s/"$//' | sort -u |
+# Only images the page actually uses: what it shows (src) and what opens on click (data-full).
+grep -oE '(src|data-full)="images/[^"]*"' index.html | sed -E 's/^(src|data-full)="images\///; s/"$//' | sort -u |
 while read -r f; do
   [ -f "images/$f" ] || continue
-  case "$f" in
-    award-*) size=1700x1700; quality=82 ;;
-    *)       size=1200x1200; quality=72 ;;
-  esac
-  convert "images/$f" -auto-orient -strip -resize "${size}>" \
-    -sampling-factor 4:2:0 -interlace JPEG -quality "$quality" "$build/images/$f"
+  mkdir -p "$build/images/$(dirname "$f")"
+  cp "images/$f" "$build/images/$f"
 done
 
 rm -f "$out"
@@ -40,4 +39,4 @@ with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
 EOF
 fi
 
-echo "Built $out ($(ls "$build/images" | wc -l) photos)"
+echo "Built $out ($(find "$build/images" -type f | wc -l) images, $(du -sh "$out" | cut -f1))"
