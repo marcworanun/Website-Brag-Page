@@ -104,7 +104,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Classroom donation: which school, and how many pairs?
 - [ ] Lab photo: where was the nanoparticle research done?
 
-**Partners** (logos on the site): Ministry of Public Health; Faculty of Medicine Siriraj Hospital, Mahidol University; Faculty of Medicine Ramathibodi Hospital, Mahidol University; The Petroleum and Petrochemical College, Chulalongkorn University; Aesthetics by Ampex Co., Ltd. Files: `images/partner-moph.png`, `partner-siriraj.png`, `partner-ramathibodi.png`, `partner-ppc-chula.png`, `partner-ampex.png`.
+**Partners** (logos on the site): Ministry of Public Health; Faculty of Medicine Siriraj Hospital, Mahidol University; Faculty of Medicine Ramathibodi Hospital, Mahidol University; Panyananthaphikkhu Chonprathan Medical Center, Srinakharinwirot University; The Petroleum and Petrochemical College, Chulalongkorn University; Aesthetics by Ampex Co., Ltd. Files: `images/partner-moph.png`, `partner-siriraj.png`, `partner-ramathibodi.png`, `partner-chonprathan.png`, `partner-ppc-chula.png`, `partner-ampex.png`.
 - [ ] Ampex logo includes a black mourning ribbon. Keep, or crop it out?
 - [ ] Is the Petroleum and Petrochemical College where the nanoparticle research was done (the lab photos)?
 
