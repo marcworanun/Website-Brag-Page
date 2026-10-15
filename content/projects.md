@@ -79,10 +79,15 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > *Founder, Inventor, Researcher*
 >
 > Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonprathan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
+>
+> My research paper on the gloves was accepted for oral presentation and publication at the IEOM 11th North American International Conference on Industrial Engineering and Operations Management in Milwaukee, USA, in June 2026.
+>
+> [IEOM acceptance letter, captioned *IEOM Letter of Acceptance*, above the photos, the way the reference shows Perilla Guard's patent]
 
 ### To confirm
 
 - [x] Role title: Founder, Inventor, Researcher
+- [ ] Research paper: is it in the published IEOM proceedings? A link would add a "Read the full research paper" button, like the reference. Was Marc first author?
 - [ ] Dates
 - [x] How the saline bottles are used: hard inner shell, wrapped in fabric
 - [x] Nanoparticle coating is on the fabric
