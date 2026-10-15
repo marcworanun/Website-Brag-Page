@@ -12,7 +12,8 @@ On the site, awards are **grouped by project**: LunarLift (Diamond Challenge, iC
 - First Place, Beijing stage
 - Year: 2025 (cheque dated 22 Feb 2025, "Diamond Challenge 2025 Pitch Events in China")
 - From the photo: cheque is in the **Social Innovation** category, $200, from UD Horn Entrepreneurship. Is "First Place" first in the Social Innovation track?
-- Photo: [x] `images/diamond-challenge-cheque.jpg`
+- Photo: [x] `images/award-diamond-challenge-2025-finalist.jpg` (Diamond Challenge finalists page, printed 29 Mar 2025: "FINALIST – THE LUNARLIFT: A user-friendly walking aid designed to support mobility-impaired patients, addressing flaws in Thailand's healthcare.") and `images/diamond-challenge-cheque.jpg`
+- The finalists page uses the name **LunarLift**, so the project was already called LunarLift by early 2025.
 
 ### Global Student Innovation Challenge 2024 (i-CREATe & WRRC 2024)
 Shanghai, China
