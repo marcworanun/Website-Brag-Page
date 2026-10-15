@@ -153,8 +153,8 @@ img { display: block; max-width: 100%; }
 /* "Partners:" logo row under a project */
 .partners { text-align: left; max-width: 870px; margin: 22px auto 0; }
 .partners .label { font-weight: 500; margin: 0 0 8px; }
-.partners .logos { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
-.partners .logos img { height: 84px; width: auto; background: #fff; padding: 4px 8px; border-radius: 6px; }
+.partners .logos { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; }
+.partners .logos img { height: 84px; width: auto; }
 
 /* Two activities side by side */
 .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; max-width: 900px; margin: 0 auto; align-items: start; }
