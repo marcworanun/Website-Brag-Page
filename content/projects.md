@@ -45,7 +45,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Thammasat test photo: who is the volunteer (patient, staff, student)? Was testing at Thammasat part of working with the Thammasat advisor? This prototype (white column, mint and yellow frame) is a third look alongside the red-and-white trial device.
 - [ ] Pitch photo ("Existing Innovations" slide, MTEC/NSTDA judge nameplate): which event? If SIC Thailand, it can also go next to that award.
 
-**Partners** (logos on the site): RBS Group, Alpaca Media and Technology Solutions, NSTDA. Files: `images/partner-rbs-group.png`, `images/partner-alpaca.png`, `images/partner-nstda.png`.
+**Partners** (logos on the site): Alpaca Media and Technology Solutions, NSTDA. Files: `images/partner-alpaca.png`, `images/partner-nstda.png`.
+**Sponsors** (logo on the site, beside Partners): RBS Group (Marc moved it from Partners to Sponsors, 17 Oct 2026). File: `images/partner-rbs-group.png`.
 
 **Awards** (details in `content/awards.md`): Diamond Challenge Global Finalist and First Place, Beijing stage; iCREATE Global Best Prototype Award (to confirm); Thailand Student Innovation Challenge Bronze Medal.
 

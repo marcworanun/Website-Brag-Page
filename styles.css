@@ -80,6 +80,7 @@ img { display: block; max-width: 100%; }
 .intro-text .nickname { text-align: right; font-style: italic; font-size: 1.12rem; font-weight: 300; margin: 2px 0 34px; }
 .nickname span { color: var(--name-green); }
 .intro-text p { font-size: 1.06rem; margin: 0 0 28px; }
+.intro-text .theme { font-size: 1.16rem; font-weight: 400; }
 .ph-portrait, .portrait { aspect-ratio: 269 / 406; width: 100%; }
 .portrait { object-fit: cover; object-position: 50% 30%; }
 
@@ -163,6 +164,9 @@ img { display: block; max-width: 100%; }
 .partners .label { font-weight: 500; margin: 0 0 8px; }
 .partners .logos { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; }
 .partners .logos img { height: 84px; width: auto; }
+/* Partners and Sponsors side by side, as on the reference; they stack when there isn't room */
+.partners-row { display: flex; flex-wrap: wrap; gap: 22px 64px; max-width: 870px; margin: 22px auto 0; }
+.partners-row .partners { margin: 0; }
 
 /* Two activities side by side */
 .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; max-width: 900px; margin: 0 auto; align-items: start; }

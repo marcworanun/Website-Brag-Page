@@ -20,7 +20,7 @@ Style, matched closely to the reference:
 - About Me: coloured box, "Hi! I'm" on the left, name in large regular-weight type, nickname in italics aligned right, photo on the right.
 - Banners: soft blurred gradient strip (blue and green here) with the section title in white.
 - Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, 4-across photo grid (215×161, at most 12 photos per project), then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.
-- Partners: under a project's "Awards:" list, a "Partners:" label and a row of logos (84px tall, 64px on phones), no tiles: round logos are masked to circles and the rest have see-through backgrounds, like the reference.
+- Partners: under a project's "Awards:" list, a "Partners:" label and a row of logos (with a "Sponsors:" group beside it when a project has sponsors, e.g. RBS Group for LunarLift) (84px tall, 64px on phones), no tiles: round logos are masked to circles and the rest have see-through backgrounds, like the reference.
 - Proof documents: an acceptance letter or patent goes in its own row between the description and the photos, uncropped (240px tall) with an italic caption, like the reference's Perilla Guard "Petty Patent". Embrace Gloves shows the IEOM acceptance letter.
 - Project logos: a project's own logo sits centred under its description, above the photos (120px tall, 96px on phones), like the reference. Ecoscope has one so far.
 - Extracurriculars are paired side by side, two per band, like the reference's Student Council/Ambassadors and Tennis/Music bands: Club + House Captain, then Varsity Football + Form Representative. Each has a 2-across photo grid. No divider lines between bands; on phones the pairs stack.
@@ -48,9 +48,13 @@ Draft:
 > **Woranun Atikarnbodee**
 > *(but everyone calls me Marc)*
 >
-> I'm a senior at Shrewsbury International School Bangkok. I'm also an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...
+> **Everything I build comes back to one goal: making healthcare more affordable and the way we live more sustainable.**
 >
-> What ties it all together is a simple question: why should good healthcare cost so much? I design healthcare solutions that work as well as what's on the market, for a fraction of the price, because I believe effective care shouldn't depend on what you can afford. This page walks you through what I've built so far. Enjoy!
+> I am a senior at Shrewsbury International School Bangkok, an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...
+>
+> I design healthcare products that work as well as what's on the market for a fraction of the price, I make them from waste wherever I can, and I use economics to help communities earn more from what they make. This page walks you through what I've built so far. Enjoy!
+
+The first line is the theme that ties every project together (affordable healthcare: LunarLift, Embrace Gloves; sustainability: Ecoscope, Embrace Gloves' recycled bottles and banana-pseudostem nanoparticles; economics for communities: Baan Panya), stated straight under the name the way another student's brag page (punpun2747.wixsite.com/mysite) states its food-security theme.
 >
 > [Personal touch, e.g. a hobby or a playlist link]
 
