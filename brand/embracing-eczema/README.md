@@ -1,5 +1,7 @@
 # Embracing Eczema logo
 
+Marc chose **option 2** (17 Oct 2026); it's on the website as `images/embracing-eczema-logo.png`.
+
 Two options, both built from Marc's photos of the Embracing Eczema handover sign and the Embrace Gloves:
 
 - **Option 1**: the heart-and-rays mark from the existing sign, rising over three waves in the glove colours (pink, lilac, blue).

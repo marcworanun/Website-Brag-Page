@@ -114,6 +114,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Ampex logo includes a black mourning ribbon. Keep, or crop it out?
 - [ ] Is the Petroleum and Petrochemical College where the nanoparticle research was done (the lab photos)?
 
+**Logo** (on the site centred under the description, above the IEOM letter): the Embracing Eczema logo Marc chose on 17 Oct 2026, option 2 from `brand/embracing-eczema/` (a pink glove and a blue glove meeting to form a heart, dotted with the gloves' ventilation holes, name underneath). File: `images/embracing-eczema-logo.png`.
+
 **Awards** (details in `content/awards.md`): WICO Gold Award and Special Award; iCAN 2026 Gold Medal and TISIAS Special Award; IEOM 11th North American Conference Finalist; International Greenwich Olympiad Finalist.
 
 ---
