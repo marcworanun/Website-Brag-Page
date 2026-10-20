@@ -12,7 +12,7 @@ To preview it, open `index.html` in any browser.
 
 ## Photos
 
-Photo grids, document rows and award rows show small, sharpened WebP display copies from `images/thumbs/`, and open the full photo when clicked. Each of those images is written as `<img src="images/thumbs/NAME.webp" data-full="images/NAME.jpg" ...>`. After adding or replacing a photo, run `tools/make-thumbs.sh` to make its display copy.
+Photo grids, document rows and award rows show small, sharpened WebP display copies from `images/thumbs/`, and open the full photo when clicked. Each of those images is written as `<img src="images/thumbs/NAME.webp" data-full="images/NAME.jpg" ...>`. Photos in the big project sliders also carry `data-thumb="1280"` (a larger display copy) and their `width` and `height`, so the slider can lay them out before they load. After adding or replacing a photo, run `tools/make-thumbs.sh` to make its display copy.
 
 ## Publishing it free with GitHub Pages
 
