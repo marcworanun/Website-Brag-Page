@@ -28,7 +28,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **LunarLift**
 > *Founder, Inventor*
 >
-> After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions Co., Ltd. on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.
+> After my grandfather's stroke, I found that home devices with body weight support cost at least $5,500. LunarLift provides body weight support and fall protection at home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions Co., Ltd. on a licensing agreement.
+>
+> (Shortened on 20 Oct 2026. Longer version, useful for essays: "After my grandfather's stroke left him struggling to walk, I found that rehab devices with body weight support were either in rehab centres hours from the countryside or cost at least $5,500 for home use. LunarLift brings body weight support and fall protection into the home for $650. I trialled it with 20 patients at 3 rural hospitals and worked with Retail Business Solutions Co., Ltd. on a licensing agreement to distribute it to hospitals, researching FDA registration pathways and competing devices along the way.")
 
 ### To confirm
 
@@ -83,9 +85,13 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Embrace Gloves**
 > *Founder, Inventor, Researcher*
 >
-> Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonprathan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.
+> Living with eczema, I used to wake up to bloodstained sheets. Embrace Gloves are ventilated anti-scratch gloves made from recycled hospital saline bottles and fabric coated with silver nanoparticles from banana pseudostem. Sensors send scratch counts to my ScratchGuard app for doctors. Over 500 pairs have sold to 3 hospitals at $35, against $65 for the cheapest alternative.
 >
-> My research paper on the gloves was accepted for oral presentation and publication at the IEOM 11th North American International Conference on Industrial Engineering and Operations Management in Milwaukee, USA, in June 2026.
+> (Shortened on 20 Oct 2026. Longer version, useful for essays: "Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonprathan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.")
+>
+> My research paper on the gloves was accepted for oral presentation and publication at IEOM's 11th North American Conference in Milwaukee, USA (June 2026).
+>
+> (Shortened on 20 Oct 2026. Longer version, useful for essays: "My research paper on the gloves was accepted for oral presentation and publication at the IEOM 11th North American International Conference on Industrial Engineering and Operations Management in Milwaukee, USA, in June 2026.")
 >
 > [IEOM acceptance letter, captioned *IEOM Letter of Acceptance*, above the photos, the way the reference shows Perilla Guard's patent]
 
@@ -163,7 +169,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Baan Panya**
 > *Founder*
 >
-> Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, set five shops up on Shopee and Lazada, and brought villagers to events to sell their products. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.
+> Village shops in Bang Khlong Han Daeng blamed town supermarkets for lost sales. My survey of 80 households showed villagers mostly shop in town on paydays, and each shop was owed about ฿55,000 in customer tabs. I advised five shops, set them up on Shopee and Lazada and took villagers to sell at events. Profits rose over 12% in three months. I also taught economics at the village school.
+>
+> (Shortened on 20 Oct 2026. Longer version, useful for essays: "Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, set five shops up on Shopee and Lazada, and brought villagers to events to sell their products. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.")
 
 ### To confirm
 
@@ -223,7 +231,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Ecoscope**
 > *Founder*
 >
-> Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+> Ecoscope began with a painting at home of a Schomburgk's deer, extinct since 1938 and now almost forgotten. To keep today's endangered animals, like the Siamese crocodile and the pangolin, from the same fate, we print them on clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-ups, we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+>
+> (Shortened on 20 Oct 2026. Longer version, useful for essays: "Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.")
 
 ### To confirm
 
