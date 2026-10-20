@@ -7,28 +7,37 @@ Same layout as the reference site: each one gets a colour band with **name**, **
 ### Sustainability Textiles Design Club
 *Founder*
 
-> I founded a 10-member club where students design their own clothing pieces while educating the wider school about the harms of fast fashion.
+> A 10-member club designing clothes and teaching the school about the harms of fast fashion.
+>
+> (Shortened by half on 20 Oct 2026. Earlier: "I founded a 10-member club where students design their own clothing pieces while educating the wider school about the harms of fast fashion.")
 
 - Notes: 10 members; members design clothing pieces; the club educates students on the harms of fast fashion. Links to Ecoscope.
 
 ### House Captain
 *Schweitzer House*
 
-> As House Captain, I led around 150 students through inter-house events including House Music and House Filmfest, and we won House Football.
+> Led about 150 students through House Music and Filmfest; we won House Football.
+>
+> (Earlier: "As House Captain, I led around 150 students through inter-house events including House Music and House Filmfest, and we won House Football.")
 
 - Notes: ~150 students; led House Music and House Filmfest; wins in House Football.
 
 ### Form Representative
 *Year 12*
 
-> I gathered my year group's views on school policy and helped secure more support for students preparing for the SAT.
+> - Gathered my year's views on school policy
+> - Helped secure more SAT support
+>
+> (Earlier: "I gathered my year group's views on school policy and helped secure more support for students preparing for the SAT.")
 
 - Notes: collected opinions for school policy; helped students get more SAT revision support.
 
 ### Varsity Football
 *Midfielder*
 
-> I play midfield for Shrewsbury's varsity football team, finishing 2nd in the Bangkok Community Cup and 2nd in BISA.
+> 2nd in the Bangkok Community Cup and in BISA.
+>
+> (Role line says Midfielder. Earlier: "I play midfield for Shrewsbury's varsity football team, finishing 2nd in the Bangkok Community Cup and 2nd in BISA.")
 
 - Notes: midfielder; 2nd place Bangkok Community Cup; 2nd place BISA.
 

@@ -6,6 +6,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ## 1. LunarLift
 
+**Photos on the site: 4** (cut from 11 on 20 Oct 2026, Marc asked for four per project): building the frame (`lunarlift-building.jpg`), testing at Thammasat University (`lunarlift-thammasat-test.jpg`), a patient trial at a rural hospital (`lunarlift-trial-2.jpg`), presenting the roadmap to RBS Group (`lunarlift-rbs-roadmap.jpg`). Left out: the other three trial photos (same tent), the hospital visit, the blurry pitch photo, the SIC Thailand photo (that award is hidden) and the Diamond Challenge stage photo (the same moment as the cheque photo in Awards). All files stay in `images/`.
+
 ### Full notes
 
 - **What it is:** a mobility rehabilitation device with a body weight support system and a safety system that protects the patient if they fall.
@@ -53,6 +55,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 ---
 
 ## 2. Embrace Gloves
+
+**Photos on the site: 4** (cut from 12 on 20 Oct 2026): the glove with its built-in scratch counter (`embrace-glove-prototype.jpg`), collecting used saline bottles for the shells (`embrace-collecting-bottles.jpg`), the Siriraj handover with the Embracing Eczema sign (`embrace-siriraj-handover.jpg`), a patient wearing the gloves (`embrace-patient.jpg`). The research is shown by the IEOM letter above the photos. Left out: app screenshot, fume hood, other handovers, second patient, donations. All files stay in `images/`.
 
 ### Full notes
 
@@ -122,6 +126,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ## 3. Baan Panya
 
+**Photos on the site: 4** (cut from 12 on 20 Oct 2026), one for each claim in the description: presenting the advice to villagers (`baanpanya-workshop.jpg`), setting a shop up online (`baanpanya-phone-coaching.jpg`), a villager's stall at an event Marc brought them to (`baanpanya-market-stall.jpg`), teaching at the village school (`baanpanya-classroom.jpg`). All other files stay in `images/`.
+
 ### Full notes
 
 - **What it is:** a community economics project in Bang Khlong Han Daeng village (spelling to confirm), Chachoengsao, Thailand.
@@ -187,6 +193,8 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 ---
 
 ## 4. Ecoscope (clothing brand)
+
+**Photos on the site: 4** (cut from 12 on 20 Oct 2026): sewing with an artisan (`ecoscope-artisan-sewing.jpg`), the clothes worn and on display (`ecoscope-popup-jackets.jpg`), a customer at a pop-up (`ecoscope-popup-customer.jpg`), the Amazing Thailand Travel Bingo stall (`ecoscope-popup-tat-bingo.jpg`). All other files stay in `images/`.
 
 ### Full notes
 
