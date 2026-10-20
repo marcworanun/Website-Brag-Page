@@ -58,7 +58,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ## 2. Embrace Gloves
 
-**Photos on the site: 4** (cut from 12 on 20 Oct 2026): the glove with its built-in scratch counter (`embrace-glove-prototype.jpg`), collecting used saline bottles for the shells (`embrace-collecting-bottles.jpg`), the Siriraj handover with the Embracing Eczema sign (`embrace-siriraj-handover.jpg`), a patient wearing the gloves (`embrace-patient.jpg`). The research is shown by the IEOM letter above the photos. Left out: app screenshot, fume hood, other handovers, second patient, donations. All files stay in `images/`.
+**Photos on the site: 4**: Marc presenting the gloves at his WICO booth (`embrace-wico-booth.jpg`), collecting used saline bottles for the shells (`embrace-collecting-bottles.jpg`), the Siriraj handover with a doctor, two nurses and the Embracing Eczema sign (`embrace-siriraj-handover-team.jpg`), a patient wearing the gloves (`embrace-patient.jpg`). On 20 Oct 2026 Marc sent the WICO booth and new Siriraj photos to replace the first and third: the glove close-up (`embrace-glove-prototype.jpg`) and the earlier Siriraj photo (`embrace-siriraj-handover.jpg`). Before that, cut from 12 to 4 the same day. The research is shown by the IEOM letter above the photos. Left out: app screenshot, fume hood, other handovers, second patient, donations. All files stay in `images/`.
 
 ### Full notes
 
