@@ -665,3 +665,6 @@ a.index__row:hover .index__act{color:var(--ink)}
 .redlist li[aria-current]{background:var(--ink);border-color:var(--ink);color:var(--paper)}
 .species__note{margin-top:1.1rem;font-size:var(--fs-small);color:var(--mute);max-width:34ch}
 
+/* Proof of giving, e.g. a donation certificate, below an animal's entry */
+.giving{margin-top:clamp(3.5rem,7vw,6rem);padding-top:clamp(3.5rem,7vw,6rem);border-top:1px solid var(--line)}
+
