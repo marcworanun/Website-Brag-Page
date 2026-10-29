@@ -14,6 +14,12 @@ To preview it, open `index.html` in any browser.
 
 Photo grids, document rows and award rows show small, sharpened WebP display copies from `images/thumbs/`, and open the full photo when clicked. Each of those images is written as `<img src="images/thumbs/NAME.webp" data-full="images/NAME.jpg" ...>`. Photos in the big project sliders also carry `data-thumb="1280"` (a larger display copy) and their `width` and `height`, so the slider can lay them out before they load. After adding or replacing a photo, run `tools/make-thumbs.sh` to make its display copy.
 
+## Ecoscope site
+
+`ecoscope/` is a copy of the Ecoscope clothing site (ecoscopeclothing.netlify.app): six pages (`index.html`, `about.html`, `initiatives.html`, `team.html`, `lookbook.html`, `order.html`) with their CSS, JavaScript and images in `assets/`. It matches the live site exactly, apart from the "Powered by Netlify" badge, which Netlify adds itself.
+
+The menu links are written like `/about`, which Netlify turns into `about.html`. They work once the folder is on Netlify, but not when you open the files straight from your computer. To update the live site, drag the `ecoscope` folder onto the site's **Deploys** page in Netlify.
+
 ## Publishing it free with GitHub Pages
 
 1. Push to the `main` branch.
