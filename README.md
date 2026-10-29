@@ -18,6 +18,8 @@ Photo grids, document rows and award rows show small, sharpened WebP display cop
 
 `ecoscope/` is a copy of the Ecoscope clothing site (ecoscopeclothing.netlify.app): six pages (`index.html`, `about.html`, `initiatives.html`, `team.html`, `lookbook.html`, `order.html`) with their CSS, JavaScript and images in `assets/`. It matches the live site exactly, apart from the "Powered by Netlify" badge, which Netlify adds itself.
 
+`wild-threads.html` is a new page, not yet on the live site: four pieces, each made for an endangered Thai animal, with the animal's photo, the piece's photo, its IUCN Red List status and a description. Anything in `[square brackets]` there is a placeholder. To mark an animal's status, add `aria-current="true"` to its category in the `redlist` scale (for example `<li aria-current="true"><abbr title="Endangered">EN</abbr></li>`).
+
 The menu links are written like `/about`, which Netlify turns into `about.html`. They work once the folder is on Netlify, but not when you open the files straight from your computer. To update the live site, drag the `ecoscope` folder onto the site's **Deploys** page in Netlify.
 
 ## Publishing it free with GitHub Pages

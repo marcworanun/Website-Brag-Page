@@ -298,6 +298,8 @@ body.menu-open .drawer a{opacity:1;transform:none}
 .drawer a:nth-child(4){transition-delay:.30s}
 .drawer a:nth-child(5){transition-delay:.36s}
 .drawer a:nth-child(6){transition-delay:.42s}
+.drawer a:nth-child(7){transition-delay:.48s}
+.drawer a:nth-child(8){transition-delay:.54s}
 .drawer__foot{margin-top:auto;padding-top:2.5rem;display:flex;flex-wrap:wrap;gap:1.5rem;justify-content:space-between}
 
 /* --------------------------------------------------------------------------
@@ -640,4 +642,25 @@ a.index__row:hover .index__act{color:var(--ink)}
   transition:transform .55s var(--ease);
 }
 .toast.is-on{transform:translate(-50%,0)}
+
+/* ==========================================================================
+   18. Wild Threads — endangered animals and the pieces made for them
+   ========================================================================== */
+.species__latin{margin-top:.9rem;font-size:var(--fs-small);font-style:italic;color:var(--mute)}
+
+.species{display:grid;grid-template-columns:repeat(12,1fr);gap:var(--gutter);margin-top:clamp(2.5rem,5vw,4rem)}
+.species__status{grid-column:1/5}
+.species__body{grid-column:6/12}
+@media (max-width:900px){.species__status,.species__body{grid-column:1/-1}}
+
+/* IUCN Red List scale — the animal's category is filled in */
+.redlist{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:1.25rem}
+.redlist li{
+  min-width:40px;min-height:32px;display:inline-flex;align-items:center;justify-content:center;
+  padding:.5em .75em;
+  font-size:var(--fs-micro);letter-spacing:.14em;
+  border:1px solid var(--line);border-radius:100px;color:var(--mute);
+}
+.redlist abbr{text-decoration:none}
+.redlist li[aria-current]{background:var(--ink);border-color:var(--ink);color:var(--paper)}
 
