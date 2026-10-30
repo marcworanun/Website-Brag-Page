@@ -15,12 +15,18 @@ The Cornell version of the site (`cornell.html`, for Marc's application to Corne
 - **Reception:** checked in an average of **50 guests a day**.
 - **Tourism Authority of Thailand fairs:** handed out contacts and coordinated follow-ups with **80+ travel agents**.
 - **Certified letter of trainee** (22 Oct 2026, signed by Nirinya Pornjariyasin, General Manager, The Salil Hotel Riverside Bangkok): Marc "has been undertaking an internship in the Sales & Marketing Department at The Salil Hotel Riverside Bangkok from January 2025 to October 2026", gained practical experience in hotel sales and marketing operations, "adapted well to our service standards, collaborated effectively with colleagues, and made positive contributions to the department", with his "friendly attitude, attention to detail, and willingness to take initiative" called "highly commendable". File: `images/work-salil-letter.jpg` (rendered from the PDF).
-- Photos: Marc at the front desk with three reception staff (`images/work-salil-reception.jpg`); Marc in a meeting with the sales and marketing team (`images/work-salil-sales-meeting.jpg`).
+- Photos, shown in a slider with a caption under each (30 Oct 2026), in this order:
+  1. Marc talking with the Director of Bumrungrad International Hospital's VitalLife department about future wellness and longevity partnerships (`images/work-salil-bumrungrad-meeting.jpg`)
+  2. Marc with the VitalLife Director and colleagues at the Salil Hotel (`images/work-salil-bumrungrad-team.jpg`)
+  3. Marc at the front desk with three reception staff (`images/work-salil-reception.jpg`)
+  4. Marc with a director of the Tourism Authority of Thailand (`images/work-salil-tat-director.jpg`; Marc called her "the director of the Tourism Authority of Thailand")
+  5. Marc in a meeting with the sales and marketing team (`images/work-salil-sales-meeting.jpg`)
+- **Bumrungrad:** Marc says the meetings were "to negotiate future partnerships for wellness and longevity" with the Director of Bumrungrad's VitalLife department (Bumrungrad's wellness centre is branded VitalLife). The page now says "led partnership talks" instead of "led partnership deals", to match.
 - Ecoscope has also sold at Salil Hotel Riverside and Salil Hotel Sukhumvit 57 (see `content/projects.md`), and the Salil logo is already in the repo (`images/partner-salil.png`).
 
 ### Website copy
 
-> From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership deals with Bumrungrad International Hospital. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.
+> From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership talks with Bumrungrad International Hospital's VitalLife wellness centre. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.
 >
 > [Letter from the General Manager, captioned, above two photos: the front desk, the sales and marketing meeting]
 
@@ -32,7 +38,8 @@ The dates and "at the Salil Hotel Riverside" come from the letter, so the page m
 - [ ] Role line says "Intern, Sales & Marketing and Front Office", but the letter only names the Sales & Marketing Department. Front office (reception) is Marc's own account; fine to keep, but a reader comparing will only see Sales & Marketing in the letter
 - [ ] "All 5 of the group's hotels" isn't in the letter either (it names the Riverside only). Keep only if Marc really worked across all five
 - [ ] Wellness and longevity programme: what was in it, and any results (bookings, guests, revenue)?
-- [ ] Bumrungrad partnership: was a deal signed? "Led partnership deals" should match what happened
+- [x] Bumrungrad partnership: negotiations about future partnerships (page says "partnership talks")
+- [ ] TAT director's exact title (e.g. "Director of the ... Division"), so the caption can name it
 - [x] Photos and letter (added 30 Oct 2026)
 
 ---

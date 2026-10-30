@@ -456,8 +456,10 @@
         return best;
       };
       const go = i => track.scrollTo({ left: centreOf(photos[Math.max(0, Math.min(photos.length - 1, i))]), behavior: 'smooth' });
+      const caption = slider.querySelector('.slide-caption');
       const update = () => {
         const now = current();
+        if (caption) caption.textContent = photos[now].dataset.caption || '';
         prev.disabled = now === 0;
         next.disabled = now === photos.length - 1;
         dots.forEach((dot, i) => dot.classList.toggle('on', i === now));
