@@ -246,7 +246,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 - [ ] Which shelters or organisations receive profits? How much has been donated?
 - [ ] Who are the artisans (community, location)?
 - [x] Where the pop-ups were held (see list above)
-- [ ] Website or Instagram link
+- [x] Website: https://ecoscopeclothingbkk.netlify.app/ (added 30 Oct 2026 as a dark "Learn More" button under the description, like the reference site's project buttons; opens in a new tab). Not checked from the build environment, which can't reach netlify.app; Marc should click it once on the live site.
 - [x] Logo: `images/ecoscope-logo.png` is Ecoscope's own logo (the partners came separately)
 - [x] Photos: **12 in the gallery** (15 Oct 2026: removed `ecoscope-popup-setup.jpg`, Marc from behind hanging T-shirts, the fourth photo from the same night-market pop-up. The file stays in `images/`). Before that: 13: artisans (spinning; sewing; hand loom); close-up of the printed waffle-knit T-shirts; night-market pop-up (setting up; jackets; shoppers; team); stalls at other events (with a customer; outside a gallery event; Amazing Thailand "Travel Bingo"; Amazing Thailand "Travel with Care"; an outdoor tent). A near-duplicate customer photo was left out.
 - [ ] Design close-up: the printed waffle-knit T-shirts may show an animal (an eye is visible), but it's hard to tell. Which animal is it? If none, a close-up of an animal print is still wanted. Neck label isn't readable; does it say Ecoscope?
