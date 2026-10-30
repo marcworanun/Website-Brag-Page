@@ -9,7 +9,9 @@
 
 ### Website copy
 
-> I interned in the Global Products & Platform Department of Finansia Syrus Securities Public Company Limited from 14 to 31 July 2025.
+> *Intern, Global Products & Platform Department / 14 to 31 July 2025*
+>
+> (No description since 30 Oct 2026: the old one, "I interned in the Global Products & Platform Department of Finansia Syrus Securities Public Company Limited from 14 to 31 July 2025.", only repeated the role and dates, so the dates moved to the role line. Same on both sites. Add a line here if Marc shares what he worked on.)
 
 ### To confirm
 

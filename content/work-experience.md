@@ -26,7 +26,11 @@ The Cornell version of the site (`cornell.html`, for Marc's application to Corne
 
 ### Website copy
 
-> From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership talks with Bumrungrad International Hospital's VitalLife wellness centre. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.
+> *Intern, Sales & Marketing and Front Office / January 2025 to October 2026*
+>
+> Working across the group's 5 hotels, I piloted a wellness and longevity programme at the Riverside, led partnership talks with Bumrungrad Hospital's VitalLife centre, checked in an average of 50 guests a day and followed up with 80+ travel agents from Tourism Authority of Thailand fairs.
+>
+> (Shortened on 30 Oct 2026, with the dates moved to the role line. Earlier: "From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership talks with Bumrungrad International Hospital's VitalLife wellness centre. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.")
 >
 > [Letter from the General Manager, captioned, above two photos: the front desk, the sales and marketing meeting]
 
@@ -56,7 +60,11 @@ The dates and "at the Salil Hotel Riverside" come from the letter, so the page m
 
 ### Website copy
 
-> From June to August 2026, I led the hotel's shift to healthy dining, reformulating recipes and analysing ingredient costs. In 8 weeks, healthy dishes rose from 18% to 31% of orders.
+> *Intern, Food & Beverage Department / June to August 2026*
+>
+> I led a shift to healthy dining by reformulating recipes and costing ingredients. In 8 weeks, healthy dishes rose from 18% to 31% of orders.
+>
+> (Shortened on 30 Oct 2026. Earlier: "From June to August 2026, I led the hotel's shift to healthy dining, reformulating recipes and analysing ingredient costs. In 8 weeks, healthy dishes rose from 18% to 31% of orders.")
 >
 > [Letter from the General Manager, captioned]
 
