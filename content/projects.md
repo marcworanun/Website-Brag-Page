@@ -6,7 +6,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ## 1. LunarLift
 
-**Photos on the site: 4** (cut from 11 on 20 Oct 2026, Marc asked for four per project): building the frame (`lunarlift-building.jpg`), testing at Thammasat University (`lunarlift-thammasat-test.jpg`), a patient trial at a rural hospital (`lunarlift-trial-2.jpg`), presenting the roadmap to RBS Group (`lunarlift-rbs-roadmap.jpg`). Left out: the other three trial photos (same tent), the hospital visit, the blurry pitch photo, the SIC Thailand photo (that award is hidden) and the Diamond Challenge stage photo (the same moment as the cheque photo in Awards). All files stay in `images/`.
+**Photos on the site: 4**, with a caption under the slider (Marc's descriptions, 31 Oct 2026): "Building the LunarLift prototype" (`lunarlift-building.jpg`); "A patient with Parkinson's trialling the device at Thammasat University Hospital" (`lunarlift-thammasat-test.jpg`; earlier notes called this person a volunteer); "A stroke patient trialling the device" (`lunarlift-trial-2.jpg`; the trial is outdoors, at one of the rural hospitals); "Pitching the device to Retail Business Solutions (RBS) for a licensing agreement" (`lunarlift-rbs-roadmap.jpg`). Cut from 11 on 20 Oct 2026, when Marc asked for four per project. Left out: the other three trial photos (same tent), the hospital visit, the blurry pitch photo, the SIC Thailand photo (that award is hidden) and the Diamond Challenge stage photo (the same moment as the cheque photo in Awards). All files stay in `images/`.
 
 ### Full notes
 
