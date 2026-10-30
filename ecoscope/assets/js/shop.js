@@ -9,7 +9,8 @@
 
    Products are defined in the HTML (order.html) using data- attributes, so
    adding a product means copying one block of markup — nothing in here needs
-   to change.
+   to change. Pieces chosen by something other than size (the wallet's colour)
+   name it with data-option="Colour"; it defaults to Size.
    ========================================================================== */
 (function () {
   'use strict';
@@ -72,7 +73,7 @@
           '<div class="bagitem__media">' + (it.img ? '<img src="' + it.img + '" alt="">' : '') + '</div>' +
           '<div>' +
             '<p class="bagitem__name">' + it.name + '</p>' +
-            '<p class="bagitem__meta">Size ' + it.size + '</p>' +
+            '<p class="bagitem__meta">' + (it.option || 'Size') + ' ' + it.size + '</p>' +
             '<div class="bagitem__qty">' +
               '<button type="button" data-dec="' + i + '" aria-label="Reduce quantity">&minus;</button>' +
               '<span>' + it.qty + '</span>' +
@@ -140,6 +141,7 @@
   /* ---------- Product cards --------------------------------------------- */
   document.querySelectorAll('[data-product]').forEach(function (card) {
     var chosen = null;
+    var option = card.getAttribute('data-option') || 'Size';
     var note = card.querySelector('[data-note]');
     var pills = card.querySelectorAll('[data-size]');
 
@@ -153,7 +155,7 @@
 
     card.querySelector('[data-add]').addEventListener('click', function () {
       if (!chosen) {
-        if (note) { note.textContent = 'Choose a size first'; note.classList.add('is-warn'); }
+        if (note) { note.textContent = 'Choose a ' + option.toLowerCase() + ' first'; note.classList.add('is-warn'); }
         pills[0] && pills[0].focus();
         return;
       }
@@ -163,11 +165,11 @@
 
       var existing = bag.filter(function (it) { return it.name === name && it.size === chosen; })[0];
       if (existing) existing.qty += 1;
-      else bag.push({ name: name, size: chosen, price: price, img: img, qty: 1 });
+      else bag.push({ name: name, size: chosen, option: option, price: price, img: img, qty: 1 });
 
       save();
       render();
-      say(name + ' — size ' + chosen + ' added');
+      say(name + ' — ' + option.toLowerCase() + ' ' + chosen + ' added');
     });
   });
 
@@ -175,7 +177,7 @@
   var summary = function () {
     var lines = ['Ecoscope order', ''];
     bag.forEach(function (it) {
-      lines.push(it.qty + ' × ' + it.name + '  (size ' + it.size + ')  — ' + money(it.price * it.qty));
+      lines.push(it.qty + ' × ' + it.name + '  (' + (it.option || 'Size').toLowerCase() + ' ' + it.size + ')  — ' + money(it.price * it.qty));
     });
     lines.push('', 'Total: ' + money(total()));
     return lines.join('\n');
