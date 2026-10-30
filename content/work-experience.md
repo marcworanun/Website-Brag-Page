@@ -21,14 +21,19 @@ The Cornell version of the site (`cornell.html`, for Marc's application to Corne
 ### Website copy
 
 > From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership deals with Bumrungrad International Hospital. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.
+>
+> [Letter from the General Manager, captioned, above two photos: the front desk, the sales and marketing meeting]
+
+The dates and "at the Salil Hotel Riverside" come from the letter, so the page matches it.
 
 ### To confirm
 
-- [ ] Dates of the internship
-- [ ] Exact title and departments (the role line says "Intern, Sales & Marketing and Front Office")
+- [x] Dates: January 2025 to October 2026 (from the letter)
+- [ ] Role line says "Intern, Sales & Marketing and Front Office", but the letter only names the Sales & Marketing Department. Front office (reception) is Marc's own account; fine to keep, but a reader comparing will only see Sales & Marketing in the letter
+- [ ] "All 5 of the group's hotels" isn't in the letter either (it names the Riverside only). Keep only if Marc really worked across all five
 - [ ] Wellness and longevity programme: what was in it, and any results (bookings, guests, revenue)?
 - [ ] Bumrungrad partnership: was a deal signed? "Led partnership deals" should match what happened
-- [ ] Photos (Marc is sending them) and a certificate or reference letter, if any
+- [x] Photos and letter (added 30 Oct 2026)
 
 ---
 
