@@ -10,7 +10,7 @@ Sections, in order:
 
 1. **About Me**: intro and photo
 2. **Projects**: one full-width colour band per project, each with title, role, description, proof buttons (website / paper), photo grid, awards and partners
-3. **Internship**: Finansia Syrus Securities (see `content/internship.md`), one band with a photo and the certificate side by side. On the Cornell site (`cornell.html`) this is **Work Experience**: The Salil Hotel, The Vince Hotel, then Finansia Syrus (see `content/work-experience.md`)
+3. **Internship**: Finansia Syrus Securities (see `content/internship.md`), one band with a photo and the certificate side by side. On the Cornell site (`cornell.html`) this is **Work Experience**: The Salil Hotel, Vince Hotel Pratunam, then Finansia Syrus (see `content/work-experience.md`)
 4. **Extracurriculars**: same band layout, shorter entries
 5. **Awards & Recognition**: each award next to a photo of the certificate or medal, plus a Media Coverage list
 

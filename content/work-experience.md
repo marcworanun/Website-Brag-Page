@@ -44,22 +44,27 @@ The dates and "at the Salil Hotel Riverside" come from the letter, so the page m
 
 ---
 
-## The Vince Hotel
+## Vince Hotel Pratunam
 
-*Intern*
+*Intern, Food & Beverage Department*
 
 ### Full notes (from Marc, 30 Oct 2026)
 
 - Led the shift to healthy dining through **recipe reformulation** and **ingredient cost analysis**.
 - Healthy-order share rose **from 18% to 31% in 8 weeks**.
+- **Letter** (14 Aug 2026, signed by Mr. Ruk Chalkulsereewath, General Manager, Vince Hotel Pratunam): Marc "has successfully completed his internship at Vince Hotel Pratunam from June 15, 2026 to August 14, 2026. During the internship, he contributed to food and Beverage Department." File: `images/work-vince-letter.jpg` (rendered from the scanned PDF). The internship ran just under 9 weeks, so "in 8 weeks" fits.
 
 ### Website copy
 
-> I led the hotel's shift to healthy dining, reformulating recipes and analysing ingredient costs. In 8 weeks, healthy dishes rose from 18% to 31% of orders.
+> From June to August 2026, I led the hotel's shift to healthy dining, reformulating recipes and analysing ingredient costs. In 8 weeks, healthy dishes rose from 18% to 31% of orders.
+>
+> [Letter from the General Manager, captioned]
 
 ### To confirm
 
-- [ ] Department, for the role line (food and beverage?)
-- [ ] Dates of the internship
+- [x] Department: Food & Beverage (from the letter)
+- [x] Dates: 15 June to 14 August 2026 (from the letter)
 - [ ] Which outlet (the hotel's restaurant, room service, all dining?)
-- [ ] Photos (Marc is sending them) and a certificate or reference letter, if any
+- [x] Letter (added 30 Oct 2026)
+- [ ] Photos, if any (the band shows only the letter for now)
+- [ ] The letter confirms the dates and department but not the healthy-dining results; a reference or menu/order data would back up the 18% to 31% figure if anyone asks
