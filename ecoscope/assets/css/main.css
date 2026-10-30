@@ -268,7 +268,7 @@ a:hover > .media img,
 body.menu-open .burger span:nth-child(1){transform:translateY(3.5px) rotate(45deg)}
 body.menu-open .burger span:nth-child(2){transform:translateY(-3.5px) rotate(-45deg)}
 
-@media (max-width:1160px){
+@media (max-width:1270px){
   .nav,.header__cta{display:none}
   .burger{display:block}
 }
@@ -594,7 +594,7 @@ a.index__row:hover .index__act{color:var(--ink)}
   border:1px solid currentColor;font-size:9px;letter-spacing:0;line-height:1;
 }
 .header__cta{display:flex;align-items:center;gap:clamp(1rem,2vw,1.75rem)}
-@media (max-width:1160px){
+@media (max-width:1270px){
   .header__cta{display:flex}
   .header__cta .btn{display:none}
 }
@@ -653,7 +653,7 @@ a.index__row:hover .index__act{color:var(--ink)}
 .toast.is-on{transform:translate(-50%,0)}
 
 /* ==========================================================================
-   18. Wild Threads — endangered animals and the pieces made for them
+   18. Endangered Collection — endangered animals and the pieces made for them
    ========================================================================== */
 .species__latin{margin-top:.9rem;font-size:var(--fs-small);font-style:italic;color:var(--mute)}
 
