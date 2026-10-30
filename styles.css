@@ -146,6 +146,9 @@ img { display: block; max-width: 100%; }
 .gallery.wide { align-items: center; }
 .gallery.wide > img { width: 340px; height: auto; aspect-ratio: auto; object-fit: initial; }
 .gallery.two > img, .gallery.two > .ph { width: 188px; aspect-ratio: 188 / 141; }
+/* A row of photos at the same height, each in its own shape (e.g. a landscape and a portrait photo) */
+.gallery.row { align-items: center; }
+.gallery.row > img { width: auto; height: 300px; aspect-ratio: auto; object-fit: initial; }
 
 .ph {
   margin: 0;
@@ -267,7 +270,7 @@ img { display: block; max-width: 100%; }
   .ph-portrait, .portrait { max-width: 270px; margin: 0 auto; }
   .gallery > img, .gallery > .ph,
   .gallery.two > img, .gallery.two > .ph { width: calc((100% - 10px) / 2); }
-  .gallery.wide > img { width: 100%; }
+  .gallery.wide > img, .gallery.row > img { width: 100%; height: auto; }
   .slides > img { max-height: 280px; }
   .slide-btn { width: 38px; height: 38px; }
   .slide-btn svg { width: 18px; height: 18px; }

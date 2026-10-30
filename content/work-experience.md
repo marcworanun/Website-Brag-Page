@@ -14,11 +14,13 @@ The Cornell version of the site (`cornell.html`, for Marc's application to Corne
 - **Sales and marketing department:** piloted the **wellness and longevity programme** for the **Salil Hotel Riverside**, while leading partnership deals with **Bumrungrad International Hospital** (Marc wrote "Bamrungrad"; the hospital spells it Bumrungrad).
 - **Reception:** checked in an average of **50 guests a day**.
 - **Tourism Authority of Thailand fairs:** handed out contacts and coordinated follow-ups with **80+ travel agents**.
+- **Certified letter of trainee** (22 Oct 2026, signed by Nirinya Pornjariyasin, General Manager, The Salil Hotel Riverside Bangkok): Marc "has been undertaking an internship in the Sales & Marketing Department at The Salil Hotel Riverside Bangkok from January 2025 to October 2026", gained practical experience in hotel sales and marketing operations, "adapted well to our service standards, collaborated effectively with colleagues, and made positive contributions to the department", with his "friendly attitude, attention to detail, and willingness to take initiative" called "highly commendable". File: `images/work-salil-letter.jpg` (rendered from the PDF).
+- Photos: Marc at the front desk with three reception staff (`images/work-salil-reception.jpg`); Marc in a meeting with the sales and marketing team (`images/work-salil-sales-meeting.jpg`).
 - Ecoscope has also sold at Salil Hotel Riverside and Salil Hotel Sukhumvit 57 (see `content/projects.md`), and the Salil logo is already in the repo (`images/partner-salil.png`).
 
 ### Website copy
 
-> My internship covered all 5 hotels of the Salil Hotel group. In sales and marketing, I piloted a wellness and longevity programme for the Salil Hotel Riverside and led partnership deals with Bumrungrad International Hospital. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.
+> From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership deals with Bumrungrad International Hospital. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.
 
 ### To confirm
 
