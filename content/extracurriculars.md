@@ -32,10 +32,12 @@ Same layout as the reference site: each one gets a colour band with **name**, **
 
 - Notes: collected opinions for school policy; helped students get more SAT revision support.
 
-### Varsity Football
+### Varsity Soccer (was "Varsity Football" until 31 Oct 2026; Marc asked for the US term)
 *Midfielder*
 
-> 2nd in the Bangkok Community Cup and in BISA.
+> Two-time silver medallist at the Bangkok Community Cup, and silver medallist at FOBISIA and at BISA.
+>
+> (Marc, 31 Oct 2026: "two times silver medalist at the bangkok community cup. Silver medal at the Fobisia competition, and silver medalist at BISA". Earlier: "2nd in the Bangkok Community Cup and in BISA.")
 >
 > (Role line says Midfielder. Earlier: "I play midfield for Shrewsbury's varsity football team, finishing 2nd in the Bangkok Community Cup and 2nd in BISA.")
 
@@ -58,7 +60,7 @@ Same layout as the reference site: each one gets a colour band with **name**, **
 - [x] House Captain photos (5): House Music performance; captains in red costumes at a house assembly; house in the theatre; outdoor group photo (black phone bars trimmed); students on the sports field
 - [x] Football photos (4): shot on goal (shirt reads ATIKARNBODEE 12); Marc (number 19) with four teammates on the pitch of a floodlit stadium (`football-stadium-team.jpg`); the squad posing in the stadium locker room (`football-team-locker-room.jpg`); team with 2nd place trophy and silver medals at FOBISIA Football 2024. On 30 Oct 2026 Marc sent the stadium and locker-room photos to replace two: they took the places of the blurry dribbling and running shots. The locker-room photo came stacked with a wide shot of a match in the same stadium; that half is saved as `football-stadium-match.jpg` but not shown.
 - [ ] Which stadium is in the new photos, and what match or tournament was it? (The hoardings read Amorn Prestige, True, Daikin.)
-- [ ] "BISA" in Marc's list: the team photo shows FOBISIA Football 2024, 2nd place. Is BISA = FOBISIA? If so, change the description to "2nd at FOBISIA 2024".
+- [x] BISA and FOBISIA are separate competitions (Marc lists a silver at each, 31 Oct 2026). BISA is the Bangkok International Schools Athletics conference; the FOBISIA photo is from FOBISIA Football 2024.
 - [x] Club photos (3): presenting a session on sustainable fashion; helping members with a group task; members working through a task on how sustainable their clothes are
 - [x] Form rep: no photos (Marc has none), so the photo slots were removed
 - [ ] Is the theatre photo House Filmfest? Is the field photo House Football or sports day?
