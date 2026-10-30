@@ -50,9 +50,11 @@ Draft:
 >
 > **Everything I build comes back to one goal: making healthcare more affordable and the way we live more sustainable.**
 >
-> I am a senior at Shrewsbury International School Bangkok, an aspiring researcher, a sustainable clothing brand owner, an environmentalist and a budding economist, and I'm still adding to that list...
+> I am a senior at Shrewsbury International School Bangkok, a researcher, a sustainable clothing brand owner and a budding economist.
 >
-> I design healthcare products that work as well as what's on the market for a fraction of the price, I make them from waste wherever I can, and I use economics to help communities earn more from what they make. This page walks you through what I've built so far. Enjoy!
+> I design healthcare products that work as well as what's on the market for a fraction of the price, make them from waste where I can, and use economics to help communities earn more. Here is what I've built so far. Enjoy!
+>
+> (Shortened on 30 Oct 2026, from 100 words to 81. Dropped: "an aspiring researcher" became "a researcher", "an environmentalist" and "I'm still adding to that list..." went, and the last paragraph was tightened.)
 
 The first line is the theme that ties every project together (affordable healthcare: LunarLift, Embrace Gloves; sustainability: Ecoscope, Embrace Gloves' recycled bottles and banana-pseudostem nanoparticles; economics for communities: Baan Panya), stated straight under the name the way another student's brag page (punpun2747.wixsite.com/mysite) states its food-security theme.
 >
@@ -62,7 +64,7 @@ The first line is the theme that ties every project together (affordable healthc
 
 > **Everything I do comes back to one goal: making wellbeing more affordable and sustainable, from hospital wards to hotel dining rooms.**
 >
-> ... At two Bangkok hotels, I brought the same idea to hospitality, piloting a wellness and longevity programme and making healthy dishes a bigger share of what guests order. This page walks you through what I've built so far. Enjoy!
+> ... At two Bangkok hotels, I brought the same idea to hospitality: a wellness programme and healthier dining. Here is what I've built so far. Enjoy!
 
 Intro photo: `images/marc-portrait.jpg` (Marc in the lab holding treated glove fabric; a near-identical shot is first in the Embrace Gloves grid).
 
