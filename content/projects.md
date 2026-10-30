@@ -85,7 +85,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Embrace Gloves**
 > *Founder, Inventor, Researcher*
 >
-> Living with eczema, I used to wake up to bloodstained sheets. Embrace Gloves are ventilated anti-scratch gloves made from recycled hospital saline bottles and fabric coated with silver nanoparticles from banana pseudostem. Sensors send scratch counts to my ScratchGuard app for doctors. Over 500 pairs have sold to 3 hospitals at $35, against $65 for the cheapest alternative.
+> Living with eczema, I used to wake up to bloodstained sheets. Embrace Gloves are ventilated anti-scratch gloves made from recycled hospital saline bottles and fabric coated with antibacterial silver nanoparticles from banana pseudostem. Sensors send scratch counts to my ScratchGuard app for doctors. Over 500 pairs have sold to 3 hospitals at $35, against $65 for the cheapest alternative.
+>
+> (Changed 30 Oct 2026; before: "Living with eczema, I used to wake up to bloodstained sheets. Embrace Gloves are ventilated anti-scratch gloves made from recycled hospital saline bottles and fabric coated with silver nanoparticles from banana pseudostem. Sensors send scratch counts to my ScratchGuard app for doctors. Over 500 pairs have sold to 3 hospitals at $35, against $65 for the cheapest alternative.")
 >
 > (Shortened on 20 Oct 2026. Longer version, useful for essays: "Living with eczema, I used to wake up to bloodstained sheets after nights of scratching. Boxing gloves helped my wounds heal but trapped bacteria. Embrace Gloves are ventilated anti-scratch gloves with a hard inner shell made from recycled saline bottles from Chonprathan Hospital, wrapped in fabric coated with silver nanoparticles green-synthesised from banana pseudostem. Built-in sensors count scratches and send them to my ScratchGuard app, giving doctors an objective measure instead of a visual guess. Over 500 pairs have been sold to 3 hospitals, at $35 compared with $65 for the cheapest antibacterial alternative.")
 >
@@ -169,7 +171,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Baan Panya**
 > *Founder*
 >
-> Village shops in Bang Khlong Han Daeng blamed town supermarkets for lost sales. My survey of 80 households showed villagers mostly shop in town on paydays, and each shop was owed about ฿55,000 in customer tabs. I advised five shops, set them up on Shopee and Lazada and took villagers to sell at events. Profits rose over 12% in three months. I also taught economics at the village school.
+> Shops in Bang Khlong Han Daeng blamed supermarkets for lost sales; my survey of 80 households found ฿55,000 per shop in unpaid tabs instead. I advised five shops, put them on Shopee and Lazada, took villagers to sell at events and taught economics at the school. Profits rose over 12% in three months.
+>
+> (Changed 30 Oct 2026; before: "Village shops in Bang Khlong Han Daeng blamed town supermarkets for lost sales. My survey of 80 households showed villagers mostly shop in town on paydays, and each shop was owed about ฿55,000 in customer tabs. I advised five shops, set them up on Shopee and Lazada and took villagers to sell at events. Profits rose over 12% in three months. I also taught economics at the village school.")
 >
 > (Shortened on 20 Oct 2026. Longer version, useful for essays: "Village shops in Bang Khlong Han Daeng, Chachoengsao, believed they were losing customers to cheaper supermarkets in town. My expenditure survey of 80 households, a quarter of the village, found otherwise: people shop in town on a few predictable paydays when they are already there, and each shop had about ฿55,000 tied up in customer tabs. I turned the findings into six pieces of advice, from stocking bulk goods before paydays to not cutting prices, set five shops up on Shopee and Lazada, and brought villagers to events to sell their products. Within three months, their profits rose by over 12%. I also taught basic economics at the village school.")
 
@@ -231,7 +235,9 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 > **Ecoscope**
 > *Founder*
 >
-> Ecoscope began with a painting at home of a Schomburgk's deer, extinct since 1938 and now almost forgotten. To keep today's endangered animals, like the Siamese crocodile and the pangolin, from the same fate, we print them on clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-ups, we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+> Ecoscope began with a painting of a Schomburgk's deer, extinct since 1938 and almost forgotten. We keep today's endangered animals in view by printing them on clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-ups we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.
+>
+> (Changed 30 Oct 2026; before: "Ecoscope began with a painting at home of a Schomburgk's deer, extinct since 1938 and now almost forgotten. To keep today's endangered animals, like the Siamese crocodile and the pangolin, from the same fate, we print them on clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-ups, we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.")
 >
 > (Shortened on 20 Oct 2026. Longer version, useful for essays: "Ecoscope began with a painting in my family's home of a Schomburgk's deer, an animal found only in the wetlands where Bangkok now stands. Hunting and rice farming wiped it out, and the last known one died in 1938. Almost no one I asked had heard of it. Ecoscope keeps today's endangered animals, like the Siamese crocodile, the pangolin and the Asian elephant, from fading from view the same way, printing them on everyday clothing made from banana and pineapple-leaf fibres and recycled PET. Across 7 pop-up stores we've sold 200+ pieces and earned over $2,000, with profits going to animal shelters and our artisans.")
 
