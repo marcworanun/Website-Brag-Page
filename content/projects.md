@@ -132,7 +132,7 @@ Each project has two parts: **full notes** (everything Marc shared, for referenc
 
 ## 3. Baan Panya
 
-**Photos on the site: 4** (cut from 12 on 20 Oct 2026), one for each claim in the description: presenting the advice to villagers (`baanpanya-workshop.jpg`), setting a shop up online (`baanpanya-phone-coaching.jpg`), a villager's stall at an event Marc brought them to (`baanpanya-market-stall.jpg`), teaching at the village school (`baanpanya-classroom.jpg`). All other files stay in `images/`.
+**Photos on the site: 4**: the selfie with the villagers giving a thumbs up (`baanpanya-villagers-selfie.jpg`; Marc re-sent this photo on 30 Oct 2026 and asked for it to replace one of the four, so it took the workshop photo's place as the first slide; the workshop photo `baanpanya-workshop.jpg` stays in the main site's intro strip), setting a shop up online (`baanpanya-phone-coaching.jpg`), a villager's stall at an event Marc brought them to (`baanpanya-market-stall.jpg`), teaching at the village school (`baanpanya-classroom.jpg`). All other files stay in `images/`.
 
 ### Full notes
 

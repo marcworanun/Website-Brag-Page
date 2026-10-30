@@ -56,7 +56,8 @@ Same layout as the reference site: each one gets a colour band with **name**, **
 - [ ] BISA full name and year of each result
 - [ ] Order (suggested: club first, then House Captain, Form Rep, Football)
 - [x] House Captain photos (5): House Music performance; captains in red costumes at a house assembly; house in the theatre; outdoor group photo (black phone bars trimmed); students on the sports field
-- [x] Football photos (4): shot on goal (shirt reads ATIKARNBODEE 12); dribbling past a defender; running in midfield; team with 2nd place trophy and silver medals at FOBISIA Football 2024
+- [x] Football photos (4): shot on goal (shirt reads ATIKARNBODEE 12); Marc (number 19) with four teammates on the pitch of a floodlit stadium (`football-stadium-team.jpg`); the squad posing in the stadium locker room (`football-team-locker-room.jpg`); team with 2nd place trophy and silver medals at FOBISIA Football 2024. On 30 Oct 2026 Marc sent the stadium and locker-room photos to replace two: they took the places of the blurry dribbling and running shots. The locker-room photo came stacked with a wide shot of a match in the same stadium; that half is saved as `football-stadium-match.jpg` but not shown.
+- [ ] Which stadium is in the new photos, and what match or tournament was it? (The hoardings read Amorn Prestige, True, Daikin.)
 - [ ] "BISA" in Marc's list: the team photo shows FOBISIA Football 2024, 2nd place. Is BISA = FOBISIA? If so, change the description to "2nd at FOBISIA 2024".
 - [x] Club photos (3): presenting a session on sustainable fashion; helping members with a group task; members working through a task on how sustainable their clothes are
 - [x] Form rep: no photos (Marc has none), so the photo slots were removed
