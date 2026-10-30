@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Builds cornell.html, the Cornell (hotel administration) version of the brag page.
 
-cornell.html is index.html with three changes:
-  - the intro text, from "<!-- INTRO TEXT" to "<!-- /INTRO TEXT -->", is replaced by
-    cornell/intro.html (a theme line and closing sentence that tie in hospitality)
-  - the Internship block, from "<!-- INTERNSHIP" to "<!-- /INTERNSHIP -->", is replaced by
-    cornell/work-experience.html
-  - the Internship tab becomes Work Experience
+cornell.html is index.html with these changes:
+  - the intro sentence, from "<!-- INTRO TEXT" to "<!-- /INTRO TEXT -->", is replaced by
+    cornell/intro.html, and the photo strip under it ("<!-- INTRO STRIP" to
+    "<!-- /INTRO STRIP -->") by cornell/intro-strip.html
+  - the Internship block, from "<!-- INTERNSHIP" to "<!-- /INTERNSHIP -->", is removed, and
+    cornell/work-experience.html goes in above the Projects banner instead
+  - the Internship tab becomes Work Experience and moves before the Projects tab
 Everything else is shared, so a change to projects, awards or photos goes in index.html and
 reaches both pages when this runs. Edit index.html or the files in cornell/, never
 cornell.html itself. tools/build-netlify.sh runs this automatically.
@@ -20,22 +21,41 @@ root = pathlib.Path(__file__).resolve().parent.parent
 page = (root / "index.html").read_text(encoding="utf-8")
 
 
-def swap(page, name, source):
-    """Replace the <!-- NAME ... --> ... <!-- /NAME --> block of index.html with a cornell/ file."""
-    text = (root / "cornell" / source).read_text(encoding="utf-8").rstrip("\n") + "\n"
+def cornell_file(source):
+    return (root / "cornell" / source).read_text(encoding="utf-8").rstrip("\n") + "\n"
+
+
+def block_of(page, name):
     block = re.compile(rf"^[ \t]*<!-- {name}\b.*?^[ \t]*<!-- /{name} -->\n", re.M | re.S)
     if len(block.findall(page)) != 1:
         raise SystemExit(f"index.html needs exactly one <!-- {name} ... --> ... <!-- /{name} --> block")
-    return block.sub(lambda _: text, page)
+    return block
+
+
+def swap(page, name, source):
+    """Replace the <!-- NAME ... --> ... <!-- /NAME --> block of index.html with a cornell/ file."""
+    return block_of(page, name).sub(lambda _: cornell_file(source), page)
+
+
+def insert_before(page, marker, text):
+    if page.count(marker) != 1:
+        raise SystemExit(f"index.html needs exactly one {marker.strip()!r}")
+    return page.replace(marker, text + marker)
 
 
 page = swap(page, "INTRO TEXT", "intro.html")
-page = swap(page, "INTERNSHIP", "work-experience.html")
+page = swap(page, "INTRO STRIP", "intro-strip.html")
 
-tab = '<a href="#internship">Internship</a>'
+# Work Experience goes above Projects; the Internship block it replaces is dropped
+page = block_of(page, "INTERNSHIP").sub("", page)
+page = insert_before(page, "    <!-- PROJECTS -->\n", cornell_file("work-experience.html") + "\n")
+
+tab = '      <a href="#internship">Internship</a>\n'
 if page.count(tab) != 1:
-    raise SystemExit(f"index.html needs exactly one {tab} tab")
-page = page.replace(tab, '<a href="#work-experience"><span class="long">Work </span>Experience</a>')
+    raise SystemExit(f"index.html needs exactly one {tab.strip()} tab")
+page = page.replace(tab, "")
+page = insert_before(page, '      <a href="#projects">Projects</a>\n',
+                     '      <a href="#work-experience"><span class="long">Work </span>Experience</a>\n')
 
 doctype = "<!doctype html>\n"
 if not page.lower().startswith(doctype):

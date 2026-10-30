@@ -36,17 +36,21 @@
     <section id="about" class="intro">
       <div class="intro-box">
         <div class="intro-text">
-          <p class="hello">Hi! I'm</p>
-          <h1>Woranun Atikarnbodee</h1>
-          <p class="nickname">(but everyone calls me <span>Marc</span>)</p>
+          <h1>Woranun (<span>Marc</span>)<br>Atikarnbodee</h1>
           <!-- INTRO TEXT (the Cornell page swaps this block for cornell/intro.html) -->
-          <p class="theme">Everything I build comes back to one goal: making healthcare more affordable and the way we live more sustainable.</p>
-          <p>I am a senior at Shrewsbury International School Bangkok, a researcher, a sustainable clothing brand owner and a budding economist.</p>
-          <p>I design healthcare products that work as well as what's on the market for a fraction of the price, make them from waste where I can, and use economics to help communities earn more. Here is what I've built so far. Enjoy!</p>
+          <p class="tagline">I am a Bangkok-based affordable-healthcare inventor, researcher, sustainable clothing entrepreneur and budding economist.</p>
           <!-- /INTRO TEXT -->
         </div>
         <img class="portrait" src="images/marc-portrait.jpg" alt="Marc in a lab coat holding a sample of treated glove fabric">
       </div>
+      <!-- INTRO STRIP (the Cornell page swaps this block for cornell/intro-strip.html) -->
+      <div class="strip">
+        <img src="images/thumbs/lunarlift-trial-2.webp" data-full="images/lunarlift-trial-2.jpg" alt="A patient standing in LunarLift during a trial at a rural hospital, with Marc at the controls" style="object-position: center 30%">
+        <img src="images/thumbs/embrace-wico-booth.webp" data-full="images/embrace-wico-booth.jpg" alt="Marc presenting Embrace Gloves at his booth at the World Invention Creativity Olympic" style="object-position: center 35%">
+        <img src="images/thumbs/baanpanya-workshop.webp" data-full="images/baanpanya-workshop.jpg" alt="Marc presenting his advice to villagers in Bang Khlong Han Daeng">
+        <img src="images/thumbs/ecoscope-popup-tat-bingo.webp" data-full="images/ecoscope-popup-tat-bingo.jpg" alt="Marc at an Ecoscope stall at the Amazing Thailand Travel Bingo event" style="object-position: center 40%">
+      </div>
+      <!-- /INTRO STRIP -->
     </section>
 
     <!-- PROJECTS -->
@@ -206,6 +210,7 @@
     <section class="band c-sky">
       <h2 class="title">Finansia Syrus Securities</h2>
       <p class="role">Intern, Global Products &amp; Platform Department<br>14 to 31 July 2025</p>
+      <p class="desc">I wrote a stock note on a Thai hospital group that modelled its medical-tourism revenue, which was used in a sector briefing. I also analysed 10 mutual funds and briefed the hedge fund desk on the macro outlook.</p>
       <div class="gallery wide">
         <img src="images/thumbs/internship-finansia-photo.webp" data-full="images/internship-finansia-photo.jpg" alt="Marc receiving his internship certificate at the Finansia head office" loading="lazy">
         <img src="images/thumbs/internship-finansia-certificate.webp" data-full="images/internship-finansia-certificate.jpg" alt="Certification of Internship from Finansia Syrus Securities Public Company Limited, Global Products and Platform Department, 14 to 31 July 2025, signed by the Chief Product Officer" loading="lazy">
@@ -484,7 +489,7 @@
     // Click a photo to see it full size.
     const lb = document.getElementById('lightbox');
     const lbImg = lb.querySelector('img');
-    document.querySelectorAll('.gallery img, .slides img, .docs img, .award-photos img').forEach(img => {
+    document.querySelectorAll('.strip img, .gallery img, .slides img, .docs img, .award-photos img').forEach(img => {
       img.addEventListener('click', () => { lbImg.src = img.dataset.full || img.src; lbImg.alt = img.alt; lb.hidden = false; });
     });
     lb.addEventListener('click', () => { lb.hidden = true; });

@@ -74,13 +74,13 @@ img { display: block; max-width: 100%; }
   padding: 50px 90px 50px 80px;
   display: grid; grid-template-columns: 1fr 270px; gap: 70px; align-items: start;
 }
-.intro-text { text-align: center; }
-.intro-text .hello { text-align: left; font-size: 1.15rem; font-weight: 300; margin: 18px 0 0; }
-.intro h1 { font-size: clamp(2rem, 4.4vw, 2.5rem); }
-.intro-text .nickname { text-align: right; font-style: italic; font-size: 1.12rem; font-weight: 300; margin: 2px 0 34px; }
-.nickname span { color: var(--name-green); }
-.intro-text p { font-size: 1.06rem; margin: 0 0 28px; }
-.intro-text .theme { font-size: 1.16rem; font-weight: 400; }
+/* Like the reference's home screen: the name, one sentence, the photo, then a strip of four photos */
+.intro-text { text-align: left; align-self: center; }
+.intro h1 { font-size: clamp(2.2rem, 4.6vw, 3rem); line-height: 1.15; }
+.intro h1 span { color: var(--name-green); }
+.intro-text .tagline { font-size: 1.2rem; font-weight: 300; line-height: 1.7; margin: 30px 0 0; max-width: 460px; }
+.strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 1280px; margin: 10px auto 0; }
+.strip img { width: 100%; aspect-ratio: 5 / 6; object-fit: cover; cursor: zoom-in; }
 .ph-portrait, .portrait { aspect-ratio: 269 / 406; width: 100%; }
 .portrait { object-fit: cover; object-position: 50% 30%; }
 
@@ -269,6 +269,8 @@ img { display: block; max-width: 100%; }
   .tabs .long { display: none; }
   .tabs .short { display: inline; }
   .intro-box { grid-template-columns: 1fr; padding: 30px 22px; gap: 24px; }
+  .intro-text .tagline { margin-top: 18px; }
+  .strip { grid-template-columns: 1fr 1fr; gap: 6px; }
   .ph-portrait, .portrait { max-width: 270px; margin: 0 auto; }
   .gallery > img, .gallery > .ph,
   .gallery.two > img, .gallery.two > .ph { width: calc((100% - 10px) / 2); }

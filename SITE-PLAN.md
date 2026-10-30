@@ -16,8 +16,8 @@ Sections, in order:
 
 Style, matched closely to the reference:
 
-- Header: name in green capitals, five tabs underneath (on phones, Extracurriculars shows as "Activities" so all five fit) with a thin dark line above each (thick line on the current tab), off-white background.
-- About Me: coloured box, "Hi! I'm" on the left, name in large regular-weight type, nickname in italics aligned right, photo on the right.
+- Header: name in green capitals, five tabs underneath (on the Cornell site, Work Experience comes before Projects, in the tabs and on the page) (on phones, Extracurriculars shows as "Activities" so all five fit) with a thin dark line above each (thick line on the current tab), off-white background.
+- About Me: coloured box with the name in large type on the left, one identity sentence under it, photo on the right, then a strip of four photos across the page (see Intro below).
 - Banners: soft blurred gradient strip (blue and green here) with the section title in white.
 - Project and activity bands: solid pastel colour per entry, title in large regular-weight type, role in italics, centred description, a photo slider for the four main projects (4 photos each, up to 420px tall and never cropped; arrows and dots roll each photo into the centre with its neighbours peeking in, and phones can swipe, like the galleries on punpun2747.wixsite.com/mysite), a 2-across photo grid for activities, then a left-aligned "Awards:" list with bold competition names. Space for dark rectangular "Learn More" buttons when links are available.
 - Partners: under a project's "Awards:" list, a "Partners:" label and a row of logos (with a "Sponsors:" group beside it when a project has sponsors, e.g. RBS Group for LunarLift) (84px tall, 64px on phones), no tiles: round logos are masked to circles and the rest have see-through backgrounds, like the reference.
@@ -34,39 +34,14 @@ Style, matched closely to the reference:
 
 Full name: **Woranun Atikarnbodee**, nickname **Marc**. Header shows WORANUN (MARC) ATIKARNBODEE.
 
-How Marc wants to be introduced, kept broad:
+Since 30 Oct 2026 the home screen follows the other reference site, punpun2747.wixsite.com/mysite: a box with the name on the left ("Woranun (Marc) Atikarnbodee", Marc in green), one identity sentence of about 14 words (the same length as that site's "I am a 17-year-old Food Security Activist, Ambitious Researcher, Entrepreneur, and Innovator."), the portrait on the right, then a full-width strip of four photos. Photos in the strip open full size on click.
 
-- Aspiring researcher
-- Owner of a sustainable clothing brand
-- Environmentalist
-- Economist working to make effective healthcare products more accessible
-- Invents healthcare solutions that cost less than what's on the market
+- **Main site** (`index.html`): "I am a Bangkok-based affordable-healthcare inventor, researcher, sustainable clothing entrepreneur and budding economist." Strip: LunarLift trial, WICO booth, Baan Panya workshop, Ecoscope Travel Bingo stall.
+- **Cornell site** (`cornell/intro.html`, `cornell/intro-strip.html`): "I am a Bangkok-based aspiring hotelier, affordable-healthcare inventor, sustainable clothing entrepreneur and budding economist." Strip: Bumrungrad VitalLife talks, Salil front desk, WICO booth, Ecoscope Travel Bingo stall.
 
-Draft:
+Earlier versions (kept for essays): the Pammy-style intro, "Hi! I'm / Woranun Atikarnbodee / (but everyone calls me Marc)", with a theme line, "Everything I build comes back to one goal: making healthcare more affordable and the way we live more sustainable." (Cornell: "Everything I do comes back to one goal: making wellbeing more affordable and sustainable, from hospital wards to hotel dining rooms."), then "I am a senior at Shrewsbury International School Bangkok, a researcher, a sustainable clothing brand owner and a budding economist." and "I design healthcare products that work as well as what's on the market for a fraction of the price, make them from waste where I can, and use economics to help communities earn more. Here is what I've built so far. Enjoy!" (Cornell added: "At two Bangkok hotels, I brought the same idea to hospitality: a wellness programme and healthier dining.")
 
-> Hi! I'm
-> **Woranun Atikarnbodee**
-> *(but everyone calls me Marc)*
->
-> **Everything I build comes back to one goal: making healthcare more affordable and the way we live more sustainable.**
->
-> I am a senior at Shrewsbury International School Bangkok, a researcher, a sustainable clothing brand owner and a budding economist.
->
-> I design healthcare products that work as well as what's on the market for a fraction of the price, make them from waste where I can, and use economics to help communities earn more. Here is what I've built so far. Enjoy!
->
-> (Shortened on 30 Oct 2026, from 100 words to 81. Dropped: "an aspiring researcher" became "a researcher", "an environmentalist" and "I'm still adding to that list..." went, and the last paragraph was tightened.)
-
-The first line is the theme that ties every project together (affordable healthcare: LunarLift, Embrace Gloves; sustainability: Ecoscope, Embrace Gloves' recycled bottles and banana-pseudostem nanoparticles; economics for communities: Baan Panya), stated straight under the name the way another student's brag page (punpun2747.wixsite.com/mysite) states its food-security theme.
->
-> [Personal touch, e.g. a hobby or a playlist link]
-
-**Cornell site intro** (`cornell/intro.html`, 30 Oct 2026): same three paragraphs, but the theme line links the healthcare and sustainability theme to hospitality, and the last paragraph adds the hotel work:
-
-> **Everything I do comes back to one goal: making wellbeing more affordable and sustainable, from hospital wards to hotel dining rooms.**
->
-> ... At two Bangkok hotels, I brought the same idea to hospitality: a wellness programme and healthier dining. Here is what I've built so far. Enjoy!
-
-Intro photo: `images/marc-portrait.jpg` (Marc in the lab holding treated glove fabric; a near-identical shot is first in the Embrace Gloves grid).
+Intro photo: `images/marc-portrait.jpg` (Marc in the lab holding treated glove fabric).
 
 ## Still needed from Marc
 
