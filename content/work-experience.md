@@ -15,7 +15,7 @@ The Cornell version of the site (`cornell.html`, for Marc's application to Corne
 - **Reception:** checked in an average of **50 guests a day**.
 - **Tourism Authority of Thailand fairs:** handed out contacts and coordinated follow-ups with **80+ travel agents**.
 - **Certified letter of trainee** (22 Oct 2026, signed by Nirinya Pornjariyasin, General Manager, The Salil Hotel Riverside Bangkok): Marc "has been undertaking an internship in the Sales & Marketing Department at The Salil Hotel Riverside Bangkok from January 2025 to October 2026", gained practical experience in hotel sales and marketing operations, "adapted well to our service standards, collaborated effectively with colleagues, and made positive contributions to the department", with his "friendly attitude, attention to detail, and willingness to take initiative" called "highly commendable". File: `images/work-salil-letter.jpg` (rendered from the PDF).
-- Photos, shown in a slider with a caption under each (30 Oct 2026), in this order:
+- Photos, shown in a slider with a caption under each (30 Oct 2026), in this order (the letter is the last slide, captioned "Letter from the General Manager confirming my internship", at Marc's request; it was a separate captioned row above the photos before):
   1. Marc talking with the Director of Bumrungrad International Hospital's VitalLife department about future wellness and longevity partnerships (`images/work-salil-bumrungrad-meeting.jpg`)
   2. Marc with the VitalLife Director and colleagues at the Salil Hotel (`images/work-salil-bumrungrad-team.jpg`)
   3. Marc at the front desk with three reception staff (`images/work-salil-reception.jpg`)
@@ -32,7 +32,7 @@ The Cornell version of the site (`cornell.html`, for Marc's application to Corne
 >
 > (Shortened on 30 Oct 2026, with the dates moved to the role line. Earlier: "From January 2025 to October 2026, I interned at the Salil Hotel Riverside, working across all 5 of the group's hotels. In sales and marketing, I piloted a wellness and longevity programme for the Riverside and led partnership talks with Bumrungrad International Hospital's VitalLife wellness centre. At reception, I checked in an average of 50 guests a day, and at Tourism Authority of Thailand fairs I coordinated follow-ups with 80+ travel agents.")
 >
-> [Letter from the General Manager, captioned, above two photos: the front desk, the sales and marketing meeting]
+> [Slider: five photos, then the letter from the General Manager as the last slide]
 
 The dates and "at the Salil Hotel Riverside" come from the letter, so the page matches it.
 
