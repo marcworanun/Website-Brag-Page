@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Makes the display copies the page shows in its photo grids, document rows and award rows:
-# images/thumbs/NAME.webp for every <img ... data-full="images/NAME.jpg"> in index.html.
+# images/thumbs/NAME.webp for every <img ... data-full="images/NAME.jpg"> in the site's pages
+# (index.html and cornell.html).
 # Browsers blur and jag photos when they shrink a big file down to a small tile on the fly,
 # so each copy is shrunk here instead (Lanczos, to fit 960x960, which stays sharp on phones
 # and Retina screens; 1280x1280 for photos marked data-thumb="1280"), lightly sharpened, and saved as high-quality WebP, which is about half
@@ -14,7 +15,7 @@ cd "$(dirname "$0")/.."
 mkdir -p images/thumbs
 
 # Photos marked data-thumb="1280" (the big project sliders) get a 1280px copy instead.
-grep -o 'data-full="images/[^"]*"[^>]*' index.html |
+grep -oh 'data-full="images/[^"]*"[^>]*' ./*.html |
   sed -E 's/^data-full="images\/([^"]*)".*data-thumb="([0-9]+)".*/\1 \2/; t; s/^data-full="images\/([^"]*)".*/\1 960/' | sort -k1,1 -k2,2nr | sort -s -u -k1,1 |
 while read -r f box; do
   src="images/$f"

@@ -259,7 +259,7 @@ img { display: block; max-width: 100%; }
   :root { --header-h: 100px; }
   body { font-size: 15px; }
   .site-name { font-size: 1rem; }
-  .tabs { justify-content: flex-start; gap: 6px; }
+  .tabs { justify-content: flex-start; gap: 4px; }
   .tabs a { flex: 1 0 auto; width: auto; font-size: .82rem; padding-left: 4px; padding-right: 6px; }
   .tabs .long { display: none; }
   .tabs .short { display: inline; }
@@ -278,4 +278,10 @@ img { display: block; max-width: 100%; }
   .pair { grid-template-columns: 1fr; gap: 36px; }
   .award { grid-template-columns: 1fr; gap: 12px; padding: 14px 0; }
   .award:nth-of-type(even) .award-text { order: 0; }
+}
+
+/* Small phones: a slightly smaller tab label so all five tabs fit on one row */
+@media (max-width: 380px) {
+  .tabs { padding: 0 10px; gap: 3px; }
+  .tabs a { font-size: .74rem; padding-left: 3px; padding-right: 3px; }
 }
