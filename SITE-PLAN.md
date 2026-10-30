@@ -58,6 +58,12 @@ The first line is the theme that ties every project together (affordable healthc
 >
 > [Personal touch, e.g. a hobby or a playlist link]
 
+**Cornell site intro** (`cornell/intro.html`, 30 Oct 2026): same three paragraphs, but the theme line links the healthcare and sustainability theme to hospitality, and the last paragraph adds the hotel work:
+
+> **Everything I do comes back to one goal: making wellbeing more affordable and sustainable, from hospital wards to hotel dining rooms.**
+>
+> ... At two Bangkok hotels, I brought the same idea to hospitality, piloting a wellness and longevity programme and making healthy dishes a bigger share of what guests order. This page walks you through what I've built so far. Enjoy!
+
 Intro photo: `images/marc-portrait.jpg` (Marc in the lab holding treated glove fabric; a near-identical shot is first in the Embrace Gloves grid).
 
 ## Still needed from Marc
