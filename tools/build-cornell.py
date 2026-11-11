@@ -8,6 +8,7 @@ cornell.html is index.html with these changes:
   - the Internship block, from "<!-- INTERNSHIP" to "<!-- /INTERNSHIP -->", is removed, and
     cornell/work-experience.html goes in above the Projects banner instead
   - the Internship tab becomes Work Experience and moves before the Projects tab
+  - the visitor counter tags visits as "cornell" instead of "main"
 Everything else is shared, so a change to projects, awards or photos goes in index.html and
 reaches both pages when this runs. Edit index.html or the files in cornell/, never
 cornell.html itself. tools/build-netlify.sh runs this automatically.
@@ -49,6 +50,11 @@ page = swap(page, "INTRO STRIP", "intro-strip.html")
 # Work Experience goes above Projects; the Internship block it replaces is dropped
 page = block_of(page, "INTERNSHIP").sub("", page)
 page = insert_before(page, "    <!-- PROJECTS -->\n", cornell_file("work-experience.html") + "\n")
+
+counter = 'data-goatcounter-settings=\'{"path": "main"}\''
+if page.count(counter) != 1:
+    raise SystemExit("index.html needs exactly one GoatCounter settings attribute")
+page = page.replace(counter, 'data-goatcounter-settings=\'{"path": "cornell"}\'')
 
 tab = '      <a href="#internship">Internship</a>\n'
 if page.count(tab) != 1:

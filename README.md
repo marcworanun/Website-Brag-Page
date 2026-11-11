@@ -10,6 +10,10 @@ A one-page personal website for college applications. It's plain HTML and CSS, s
 
 To preview it, open `index.html` in any browser.
 
+## Visitor counter
+
+Both pages carry a GoatCounter script just before `</body>`, so visits show up on the dashboard at marcatikarnbodee.goatcounter.com (Marc's account). Visits to the main site are recorded under the path `main` and visits to the Cornell site under `cornell`, so the dashboard's Pages list shows them separately. GoatCounter sets no cookies and shows nothing to visitors. To stop counting your own visits, open the dashboard's Settings and add your IP under "Ignore IPs".
+
 ## The Cornell version
 
 There are two sites built from this folder:
